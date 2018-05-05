@@ -1,0 +1,1555 @@
+循环系统/nl 疾病/n 
+急性/b 风湿热/n 
+慢性/b 风湿/n 性/ng 心脏病/n 
+高血压/n 病/n 
+缺/v 血性/n 心脏病/n 
+肺/n 源/ng 性/ng 心脏病/n 和/cc 肺循环/n 疾病/n 
+其他/rzv 类型/n 的/ude1 心脏病/n 
+脑血管/n 病/n 
+动脉/n 、/wn 小/a 动脉/n 和/cc 毛/n 细/a 血管/n 疾病/n 
+静脉/n 、/wn 淋巴管/n 和/cc 淋巴结/n 疾病/n ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+循环系统/nl 其他/rzv 和/cc 未/d 特指/v 的/ude1 疾患/n 
+风湿热/n ,/wd 未/d 提及/v 心脏/n 受累/vi 
+风湿热/n 伴有/v 心脏/n 受累/vi 
+风湿/n 性/ng 舞蹈/n 症/ng 
+风湿/n 性/ng 二尖瓣/n 疾病/n 
+风湿/n 性/ng 主动脉/n 瓣/q 疾病/n 
+风湿/n 性/ng 三/m 尖/a 瓣/q 疾病/n 
+多/m 个/q 心/n 瓣膜/n 疾病/n 
+其他/rzv 风湿/n 性/ng 心脏病/n 
+特/d 发/v 性/ng (/wkz 原/b 发/v 性/ng )/wky 高血压/n 
+高血压/n 心脏病/n 
+高血压/n 肾脏/n 病/n 
+高血压/n 心脏/n 和/cc 肾脏/n 病/n 
+继/vg 发/v 性/ng 高血压/n 
+心绞痛/n 
+急性/b 心肌/n 梗/ng 死/v 
+随后/d 性/ng 心肌/n 梗/ng 死/v 
+急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 某些/rz 近期/t 并发症/n 
+其他/rzv 急性/d 缺血/v 性/ng 心脏病/n 
+慢性/b 缺血/v 性/ng 心脏病/n 
+肺/n 栓塞/n 
+其他/rzv 肺/n 源/ng 性/ng 心脏病/n 
+肺/n 血管/n 的/ude1 其他/rzv 疾病/n 
+急性/b 心包炎/n 
+心包/n 的/ude1 其他/rzv 疾病/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 心包炎/n 
+急性/b 和/cc 亚/b 急性/b 心/n 内/f 膜/n 炎/ng 
+非/b 风湿/n 性/ng 二尖瓣/n 疾患/n 
+非/b 风湿/n 性/ng 主动脉/n 瓣/q 疾患/n 
+非/b 风湿/n 性/ng 三/m 尖/a 瓣/q 疾患/n 
+肺动脉/n 瓣/q 疾患/n 
+瓣膜/n 未/d 特指/v 的/ude1 心/n 内/f 膜/n 炎/ng 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 心/n 内/f 膜/n 炎/ng 和/cc 心/n 瓣膜/n 疾患/n 
+急性/b 心肌炎/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 心肌炎/n 
+心肌/n 病/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 心肌/n 病/n 
+房室/n 传导/vn 阻滞/vn 和/cc 左/f 束/v 支/q 传导/v 阻滞/v 
+其他/rzv 传导/v 疾患/n 
+心脏/n 停/vi 搏/vg 
+阵/ng 发/v 性/ng 心动/v 过速/a 
+心房/n 纤/ng 颤/vi 和/cc 扑/v 动/v 
+其他/rzv 心律/n 失常/a 
+心力衰竭/n 
+心脏病/n 的/ude1 并发症/n 和/cc 不/d 明确/ad 表述/v 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 其他/rzv 心脏/n 疾患/n 
+蛛网/n 膜/n 下/f 出/vf 血/n 
+脑/n 内出血/v 
+其他/rzv 非/b 创伤/n 性/ng 颅/ng 内出血/v 
+脑/n 梗/ng 死/v 
+脑/n 卒/ng 中/f ,/wd 未/d 特指/v 为/v 出血/vi 或/c 梗/v 死/v 
+入/v 脑/n 前/f 动脉/n 的/ude1 闭塞/a 和/cc 狭窄/a ,/wd 未/d 造成/v 脑/n 梗/ng 死/v 
+大脑/n 动脉/n 的/ude1 闭塞/a 和/cc 狭窄/a ,/wd 未/d 造成/v 脑/n 梗/ng 死/v 
+其他/rzv 脑血管/n 病/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 脑血管/n 疾患/n 
+脑血管/n 病/n 后遗症/n 
+动脉/n 粥/n 样/ng 硬化/vi 
+主/ag 动脉瘤/n 和/cc 主动脉/n 夹层/n 
+其他/rzv 动脉瘤/n 
+其他/rzv 周围/f 血管/n 疾病/n 
+动脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+动脉/n 和/cc 小/a 动脉/n 的/ude1 其他/rzv 疾患/n 
+毛/nr1 细/a 血管/n 疾病/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 动脉/n 、/wn 小/a 动脉/n 和/cc 毛/n 细/a 血管/n 疾患/n 
+静脉炎/n 和/cc 血栓/n 性/ng 静脉炎/n 
+门静脉/n 血栓/n 形成/v 
+其他/rzv 静脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+下肢/n 静脉/n 曲/n 张/q 
+痔/n 
+食管/n 静脉/n 曲/n 张/q 
+其他/rzv 部位/n 的/ude1 静脉/n 曲/n 张/q 
+静脉/n 的/ude1 其他/rzv 疾患/n 
+非/b 特异/z 性/ng 淋巴结炎/n 
+淋巴管/n 和/cc 淋巴结/n 的/ude1 其他/rzv 非/b 感染/v 性/ng 疾患/n 
+低血压/n 
+循环系统/nl 的/ude1 操作/vn 后/f 疾患/n ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 循环系统/nl 的/ude1 其他/rzv 疾患/n 
+循环系统/nl 其他/rzv 和/cc 未/d 特指/v 的/ude1 疾患/n 
+急性/b 风湿/n 性/ng 心包炎/n 
+急性/b 风湿/n 性/ng 心/n 内/f 膜/n 炎/ng 
+急性/b 风湿/n 性/ng 心肌炎/n 
+其他/rzv 急性/b 风湿/n 性/ng 心脏病/n 
+未/d 特指/v 的/ude1 急性/b 风湿/n 性/ng 心脏病/n 
+风湿/n 性/ng 舞蹈/n 症/k 伴有/v 心脏/n 受累/vi 
+风湿/n 性/ng 舞蹈/n 症/k 不/d 伴有/v 心脏/n 受累/vi 
+二尖瓣/n 狭窄/a 
+风湿/n 性/ng 二尖瓣/n 关闭/v 不/d 全/a 
+二尖瓣/n 狭窄/a 伴有/v 关闭/v 不/d 全/a 
+其他/rzv 二尖瓣/n 疾病/n 
+未/d 特指/v 的/ude1 二尖瓣/n 疾病/n 
+风湿/n 性/ng 主动脉/n 瓣/q 狭窄/a 
+风湿/n 性/ng 主动脉/n 瓣/ng 关闭/v 不/d 全/a 
+风湿/n 性/ng 主动脉/n 瓣/q 狭窄/a 伴有/v 关闭/v 不/d 全/a 
+其他/rzv 风湿/n 性/ng 主动脉/n 瓣/q 疾病/n 
+未/d 特指/v 的/ude1 风湿/n 性/ng 主动脉/n 瓣/q 疾病/n 
+三/m 尖/a 瓣/q 狭窄/a 
+三/m 尖/ng 瓣/ng 关闭/v 不/d 全/a 
+三/m 尖/a 瓣/q 狭窄/a 伴有/v 关闭/v 不/d 全/a 
+其他/rzv 三/m 尖/a 瓣/q 疾病/n 
+未/d 特指/v 的/ude1 三/m 尖/a 瓣/q 疾病/n 
+二尖瓣/n 和/cc 主动脉/n 瓣/ng 的/ude1 疾患/n 
+二尖瓣/n 和/cc 三/m 尖/ng 瓣/ng 的/ude1 疾患/n 
+主动脉/n 瓣/ng 和/cc 三/m 尖/ng 瓣/ng 的/ude1 疾患/n 
+二尖瓣/n 、/wn 主动脉/n 瓣/ng 和/cc 三/m 尖/ng 瓣/ng 的/ude1 合并/vn 疾患/n 
+其他/rzv 多/m 个/q 心/n 瓣膜/n 疾病/n 
+未/d 特指/v 的/ude1 多/m 个/q 心/n 瓣膜/n 疾病/n 
+风湿/n 性/ng 心肌炎/n 
+瓣膜/n 未/d 特指/v 的/ude1 风湿/n 性/ng 心/n 内/f 膜/n 疾病/n 
+慢性/b 风湿/n 性/ng 心包炎/n 
+其他/rzv 特指/v 的/ude1 风湿/n 性/ng 心脏病/n 
+未/d 特指/v 的/ude1 风湿/n 性/ng 心脏病/n 
+高血压/n 心脏病/n 伴有/v (/wkz 充/v 血性/n )/wky 心力衰竭/n 
+高血压/n 心脏病/n 不/d 伴/v 有/vyou (/wkz 充/v 血性/n )/wky 心力衰竭/n 
+高血压/n 肾脏/n 病/n 伴有/v 肾衰竭/n 
+高血压/n 肾脏/n 病/n 不/d 伴有/v 肾衰竭/n 
+高血压/n 心脏/n 和/cc 肾脏/n 病/n 伴/v 有/vyou (/wkz 充/v 血性/n )/wky 心力衰竭/n 
+高血压/n 心脏/n 和/cc 肾脏/n 病/n 伴有/v 肾衰竭/n 
+高血压/n 心脏/n 和/cc 肾脏/n 病/n 同时/c 伴/v 有/vyou (/wkz 充/v 血性/n )/wky 心力衰竭/n 和/cc 肾衰竭/n 
+未/d 特指/v 的/ude1 高血压/n 心脏/n 和/cc 肾脏/n 病/n 
+肾/n 血管/n 性/ng 高血压/n 
+继发/nr2 于/p 其他/rzv 肾/n 疾患/n 的/ude1 高血压/n 
+继发/nr2 于/p 内分泌/n 疾患/n 的/ude1 高血压/n 
+其他/rzv 继发/nr2 性/ng 高血压/n 
+未/d 特指/v 的/ude1 继发/nr2 性/ng 高血压/n 
+不/d 稳定性/n 心绞痛/n 
+心绞痛/n 伴有/v 确证/v 的/ude1 痉挛/vn 
+其他/rzv 类型/n 的/ude1 心绞痛/n 
+未/d 特指/v 的/ude1 心绞痛/n 
+前/f 壁/ng 急性/d 透/v 壁/ng 性/ng 心肌/n 梗/ng 死/v 
+下/vf 壁/ng 急性/d 透/v 壁/ng 性/ng 心肌/n 梗/ng 死/v 
+其他/rzv 部位/n 的/ude1 急性/b 透/v 壁/ng 心肌/n 梗/ng 死/v 
+未/d 特指/v 部位/n 的/ude1 急性/b 透/v 壁/ng 性/ng 心肌/n 梗/ng 死/v 
+急性/b 心/n 内/f 膜/n 下/vf 心肌/n 梗/ng 死/v 
+未/d 特指/v 的/ude1 急性/b 心肌/n 梗/ng 死/v 
+前/f 壁/ng 的/ude1 随后/d 性/ng 心肌/n 梗/ng 死/v 
+下/vf 壁/ng 的/ude1 随后/d 性/ng 心肌/n 梗/ng 死/v 
+其他/rzv 部位/n 的/ude1 随后/d 性/ng 心肌/n 梗/ng 死/v 
+未/d 特指/v 部位/n 的/ude1 随后/d 性/ng 心肌/n 梗/ng 死/v 
+心包/n 积/v 血/n 作为/p 急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 近期/t 并发症/n 
+房/n 间隔/vd 缺损/v 作为/p 急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 近期/t 并发症/n 
+室/n 间隔/vd 缺损/v 作为/p 急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 近期/t 并发症/n 
+心/n 壁/ng 破裂/vi 不/d 伴有/v 心包/n 积/v 血/n 作为/p 急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 近期/t 并发症/n 
+腱/n 索/vg 断裂/vi 作为/p 急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 近期/t 并发症/n 
+乳头/n 肌/ng 断裂/vi 作为/p 急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 近期/t 并发症/n 
+心房/n 、/wn 心/n 耳/n 和/cc 心室/n 的/ude1 血栓/n 形成/v 作为/p 急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 近期/t 并发症/n 
+急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 其他/rzv 近期/t 并发症/n 
+冠状动脉/nl 血栓/n 形成/v ,/wd 未/d 造成/v 心肌/n 梗/ng 死/v 
+德/n 雷斯/nsf 勒/v 综合征/n 
+其他/rzv 类型/n 的/ude1 急性/b 缺血/v 性/ng 心脏病/n 
+未/d 特指/v 的/ude1 急性/b 缺血/v 性/ng 心脏病/n 
+被/pbei 描述/v 为/v 动脉硬化/nl 性/ng 心血管/n 病/n 
+动脉硬化/nl 性/ng 心脏病/n 
+陈旧/a 性/ng 心肌/n 梗/ng 死/v 
+心脏/n 动脉瘤/n 
+冠状动脉/nl 动脉瘤/n 
+缺/v 血性/n 心肌/n 病/n 
+无/v 症状/n 心肌/n 缺血/v 
+其他/rzv 类型/n 的/ude1 慢性/b 缺血/v 性/ng 心脏病/n 在/p I21/n -/wp I22/n 和/cc I24./n -/wp 中/f 特指/v 为/p 慢性/b 的/ude1 
+未/d 特指/v 的/ude1 慢性/b 缺血/v 性/ng 心脏病/n 
+肺/n 栓塞/n 提及/v 急性/b 肺/n 源/ng 性/ng 心脏病/n 
+肺/n 栓塞/n 未/d 提及/v 急性/b 肺/n 源/ng 性/ng 心脏病/n 
+原/d 发/v 性/ng 肺动脉/n 高压/n 
+脊柱/n 后/f 侧/v 凸/ag 性/ng 心脏病/n 
+其他/rzv 继发/nr2 性/ng 肺动脉/n 高压/n 
+其他/rzv 特指/v 的/ude1 肺/n 源/ng 性/ng 心脏病/n 
+未/d 特指/v 的/ude1 肺/n 源/ng 性/ng 心脏病/n 
+肺/n 血管/n 动/v 静脉/n 瘘/n 
+肺动脉/n 的/ude1 动脉瘤/n 
+肺/n 血管/n 其他/rzv 特指/v 的/ude1 疾病/n 
+肺/n 血管/n 未/d 特指/v 的/ude1 病/n 
+急性/b 非/b 特异/z 性/n 特/ag 发/v 性/ng 心包炎/n 
+感染/v 性/ng 心包炎/n 
+其他/rzv 类型/n 的/ude1 急性/b 心包炎/n 
+未/d 特指/v 的/ude1 急性/b 心包炎/n 
+慢性/b 粘连/vi 性/ng 心包炎/n 
+慢性/b 缩/vi 窄/a 性/ng 心包炎/n 
+心包/n 积/v 血/n ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+心包/n 积/v 液/ng (/wkz 非/b 炎性/nr )/wky 
+心包/n 其他/rzv 特指/v 的/ude1 疾病/n 
+心包/n 未/d 特指/v 的/ude1 疾病/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 细菌/n 性/ng 疾病/n 引起/v 的/ude1 心包炎/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 其他/rzv 传染病/n 和/cc 寄生虫/n 病/n 引起/v 的/ude1 心包炎/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 其他/rzv 疾病/n 引起/v 的/ude1 心包炎/n 
+急性/b 和/cc 亚/b 急性/b 感染/v 性/ng 心/n 内/f 膜/n 炎/ng 
+未/d 特指/v 的/ude1 急性/b 心/n 内/f 膜/n 炎/ng 
+二/m 尖/ng (/wkz 瓣/q )/wky 关闭/v 不/d 全/a 
+二-/m 尖/ng (/wkz 瓣/q )/wky 脱/v 垂/v 
+非/b 风湿/n 性/ng 二/m 尖/ng (/wkz 瓣/q )/wky 狭窄/a 
+其他/rzv 的/ude1 非/b 风湿/n 性/ng 二尖瓣/n 疾患/n 
+未/d 特指/v 的/ude1 非/b 风湿/n 性/ng 二尖瓣/n 疾患/n 
+主动脉/n (/wkz 瓣/q )/wky 狭窄/a 
+主动脉/n (/wkz 瓣/q )/wky 关闭/v 不/d 全/a 
+主动脉/n (/wkz 瓣/q )/wky 狭窄/a 伴有/v 关闭/v 不/d 全/a 
+其他/rzv 的/ude1 主动脉/n 瓣/q 疾患/n 
+未/d 特指/v 的/ude1 主动脉/n 瓣/q 疾患/n 
+非/b 风湿/n 性/ng 三/m 尖/ng (/wkz 瓣/q )/wky 狭窄/a 
+非/b 风湿/n 性/ng 三/m 尖/ng (/wkz 瓣/q )/wky 关闭/v 不/d 全/a 
+非/b 风湿/n 性/ng 三/m 尖/ng (/wkz 瓣/q )/wky 狭窄/a 伴有/v 关闭/v 不/d 全/a 
+其他/rzv 的/ude1 非/b 风湿/n 性/ng 三/m 尖/a 瓣/q 疾患/n 
+未/d 特指/v 的/ude1 非/b 风湿/n 性/ng 三/m 尖/a 瓣/q 疾患/n 
+肺动脉/n 瓣/q 狭窄/a 
+肺动脉/n 瓣/ng 关闭/v 不/d 全/a 
+肺动脉/n 瓣/q 狭窄/a 伴有/v 关闭/v 不/d 全/a 
+其他/rzv 的/ude1 肺动脉/n 瓣/q 疾患/n 
+未/d 特指/v 的/ude1 肺动脉/n 瓣/q 疾患/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 二尖瓣/n 疾患/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 主动脉/n 瓣/q 疾患/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 三/m 尖/a 瓣/q 疾患/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 肺动脉/n 瓣/q 疾患/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 多/m 个/q 瓣膜/n 疾患/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 瓣膜/n 未/d 特指/v 的/ude1 心/n 内/f 膜/n 炎/ng 
+感染/v 性/ng 心肌炎/n 
+孤立/v 性/ng 心肌炎/n 
+其他/rzv 的/ude1 急性/b 心肌炎/n 
+未/d 特指/v 的/ude1 急性/b 心肌炎/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 细菌/n 性/ng 疾病/n 引起/v 的/ude1 心肌炎/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 病/n 毒性/n 疾病/n 引起/v 的/ude1 心肌炎/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 其他/rzv 传染病/n 和/cc 寄生虫/n 病/n 引起/v 的/ude1 心肌炎/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 其他/rzv 疾病/n 引起/v 的/ude1 心肌炎/n 
+扩张型/b 心肌/n 病/n 
+梗阻/vi 性/ng 肥厚/a 型心/n 肌/ng 病/n 
+其他/rzv 肥厚/a 型心/n 肌/ng 病/n 
+心/n 内/f 膜/n 心肌/n (/wkz 嗜/vg 酸性/n )/wky 病/n 
+心/n 内/f 膜/n 弹力/n 纤维/n 增生/vi 症/ng 
+其他/rzv 的/ude1 限制/vn 型心/n 肌/ng 病/n 
+酒精/n 性/ng 心肌/n 病/n 
+药物/n 和/cc 其他/rzv 外部/f 因素/n 引起/v 的/ude1 心肌/n 病/n 
+其他/rzv 的/ude1 心肌/n 病/n 
+未/d 特指/v 的/ude1 心肌/n 病/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 传染病/n 和/cc 寄生虫/n 病/n 引起/v 的/ude1 心肌/n 病/n 
+代谢/vn 性/ng 疾病/n 引起/v 的/ude1 心肌/n 病/n 
+营养/n 性/ng 疾病/n 引起/v 的/ude1 心肌/n 病/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 其他/rzv 疾病/n 引起/v 的/ude1 心肌/n 病/n 
+一/m 度/qv 房室/n 传导/v 阻滞/v 
+二/m 度/qv 房室/n 传导/v 阻滞/v 
+完全性/n 房室/n 传导/v 阻滞/v 
+其他/rzv 和/cc 未/d 特指/v 的/ude1 房室/n 传导/v 阻滞/v 
+左/f 前/f 分支/n 传导/v 阻滞/v 
+左/f 后/f 分支/n 传导/v 阻滞/v 
+其他/rzv 和/cc 未/d 特指/v 的/ude1 分支/n 传导/v 阻滞/v 
+未/d 特指/v 的/ude1 左/f 束/v 支/q 传导/v 阻滞/v 
+右/f 分支/n 传导/v 阻滞/v 
+其他/rzv 和/cc 未/d 特指/v 的/ude1 右/f 束/v 支/q 传导/v 阻滞/v 
+双/m 分支/n 传导/v 阻滞/v 
+三分/t 支/q 传导/v 阻滞/v 
+非/b 特异/z 性/n 室内/s 传导/v 阻滞/v 
+其他/rzv 特指/v 的/ude1 心脏/n 传导/v 阻滞/v 
+预/d 激/v 综合征/n 
+其他/rzv 特指/v 的/ude1 传导/vn 疾患/n 
+未/d 特指/v 的/ude1 传导/vn 疾患/n 
+心脏/n 停/vi 搏/vg 复苏/vi 成功/an 
+被/pbei 描述/v 为/p 心脏/n 性/ng 猝死/vi 
+未/d 特指/v 的/ude1 心脏/n 停/vi 搏/vg 
+折返/v 性/ng 室/n 性/ng 心律/n 失常/a 
+室/n 上/f 性/ng 心动/v 过速/a 
+室/n 性/ng 心动/v 过速/a 
+未/d 特指/v 的/ude1 阵/ng 发/v 性/ng 心动/v 过速/a 
+心室/n 纤/ng 颤/vi 和/cc 扑/v 动/v 
+心房/n 过早/d 除/p 极/d 
+交界/vi 性/ng 过早/d 除/p 极/d 
+心室/n 过早/d 除/p 极/d 
+其他/rzv 和/cc 未/d 特指/v 的/ude1 过早/d 除/p 极/d 
+病态/n 窦/nr1 性/ng 综合征/n 
+其他/rzv 特指/v 的/ude1 心律/n 失常/a 
+未/d 特指/v 的/ude1 心律/n 失常/a 
+充/v 血性/n 心力衰竭/n 
+左/a 心室/n 衰竭/vi 
+未/d 特指/v 的/ude1 心力衰竭/n 
+心/n 间隔/vd 缺损/v ,/wd 后/f 天性/n 
+腱/n 索/vg 断裂/vi ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+乳头/n 肌/ng 断裂/vi ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+心/n 内/f 血栓/n 形成/v ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+未/d 特指/v 的/ude1 心肌炎/n 
+心肌/n 变性/vn 
+未/d 特指/v 的/ude1 心血管/n 疾病/n 
+心脏/n 肥大/a 
+其他/rzv 不/d 明确/a 的/ude1 心脏病/n 
+未/d 特指/v 的/ude1 心脏病/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 细菌/n 性/ng 疾病/n 引起/v 的/ude1 其他/rzv 心脏/n 疾患/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 其他/rzv 传染病/n 和/cc 寄生虫/n 病/n 引起/v 的/ude1 其他/rzv 心脏/n 疾患/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 其他/rzv 疾病/n 引起/v 的/ude1 其他/rzv 心脏/n 疾患/n 
+颈/ng 动脉/n 弯/ng 管/v 和/cc 杈/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+大脑/n 中/b 动脉/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+前/f 交通/n 动脉/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+后/f 交通/n 动脉/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+基/ng 底/f 动脉/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+椎/n 动脉/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+其他/rzv 颅/ng 内/f 动脉/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+未/d 特指/v 颅/ng 内/f 动脉/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+其他/rzv 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+未/d 特指/v 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+大脑/n 半球/n 的/ude1 脑/n 内出血/v ,/wd 皮质/n 下/f 
+大脑/n 半球/n 的/ude1 脑/n 内出血/v ,/wd 皮质/n 的/ude1 
+大脑/n 半球/n 未/d 特指/v 的/ude1 脑/n 内出血/v 
+脑/n 干/v 的/ude1 脑/n 内出血/v 
+小脑/n 的/ude1 脑/n 内出血/v 
+脑/n 内出血/v ,/wd 脑/n 室内/s 
+脑/n 内出血/v ,/wd 多/m 处/q 局限性/n 
+其他/rzv 脑/n 内出血/v 
+未/d 特指/v 的/ude1 脑/n 内出血/v 
+硬/a 膜/n 下/f 出/vf 血/n (/wkz 急性/b )/wky (/wkz 非/b 创伤/n 性/ng )/wky 
+非/b 创伤/n 性/ng 硬/a 膜/n 外出血/v 
+未/d 特指/v 的/ude1 颅/ng 内出血/v (/wkz 非/b 创伤/n 性/ng )/wky 
+入/v 脑/n 前/f 动脉/n 血栓/n 形成/v 引起/v 的/ude1 脑/n 梗/ng 死/v 
+入/v 脑/n 前/f 动脉/n 栓塞/n 引起/v 的/ude1 脑/n 梗/ng 死/v 
+入/v 脑/n 前/f 动脉/n 未/d 特指/v 的/ude1 闭塞/a 或/c 狭窄/a 引起/v 的/ude1 脑/n 梗/ng 死/v 
+大脑/n 动脉血/n 栓/ng 形成/v 引起/v 的/ude1 脑/n 梗/ng 死/v 
+大脑/n 动脉/n 栓塞/n 引起/v 的/ude1 脑/n 梗/ng 死/v 
+大脑/n 动脉/n 未/d 特指/v 的/ude1 闭塞/a 或/c 狭窄/a 引起/v 的/ude1 脑/n 梗/ng 死/v 
+大脑/n 静脉/n 血栓/n 形成/v 引起/v 的/ude1 脑/n 梗/ng 死/v 
+其他/rzv 脑/n 梗/ng 死/v 
+未/d 特指/v 的/ude1 脑/n 梗/ng 死/v 
+椎/n 动脉/n 闭塞/an 和/cc 狭窄/a 
+基/ng 底/f 动脉/n 闭塞/an 和/cc 狭窄/a 
+颈/ng 动脉/n 闭塞/an 和/cc 狭窄/a 
+多/m 个/q 和/cc 双/m 侧/ng 入/v 脑/n 前/f 动脉/n 的/ude1 闭塞/a 和/cc 狭窄/a 
+其他/rzv 入/v 脑/n 前/f 动脉/n 的/ude1 闭塞/a 和/cc 狭窄/a 
+未/d 特指/v 的/ude1 入/v 脑/n 前/f 动脉/n 的/ude1 闭塞/a 和/cc 狭窄/a 
+大脑/n 中/b 动脉/n 闭塞/an 和/cc 狭窄/a 
+大脑/n 前/f 动脉/n 闭塞/an 和/cc 狭窄/a 
+大/a 脑/n 后/f 动脉/n 闭塞/an 和/cc 狭窄/a 
+小脑/n 动脉/n 闭塞/an 和/cc 狭窄/a 
+多/m 个/q 和/cc 双/m 侧/q 大脑/n 动脉/n 闭塞/an 和/cc 狭窄/a 
+其他/rzv 大脑/n 动脉/n 闭塞/an 和/cc 狭窄/a 
+未/d 特指/v 的/ude1 大脑/n 动脉/n 的/ude1 闭塞/a 和/cc 狭窄/a 
+大脑/n 动脉/n 夹层/n 形成/v ,/wd 未/d 破裂/vi 
+脑/n 动脉瘤/n ,/wd 未/d 破裂/vi 
+大脑/n 动脉/n 粥/n 样/ng 硬化/vi 
+进行/vx 性/n 血管/n 性/ng 脑/n 白质/n 病/n 
+高血压/n 脑/n 病/n 
+烟雾/n 病/n 
+颅/ng 内/f 静脉/n 系统/n 的/ude1 非/b 生/v 脓/n 性/ng 血栓/n 形成/v 
+大脑/n 动脉/n 炎/ng ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+其他/rzv 特指/v 的/ude1 脑血管/n 疾病/n 
+未/d 特指/v 的/ude1 脑血管/n 病/n 
+大脑/n 淀粉/n 样/ng 血管/n 病/n (/wkz E85./n -/wp )/wky 
+分类/vi 于/p 他/rr 处/vi 的/ude1 传染病/n 和/cc 寄生虫/n 病/n 引起/v 的/ude1 大脑/n 动脉/n 炎/ng 
+分类/vi 于/p 他/rr 处/vi 的/ude1 其他/rzv 疾病/n 引起/v 的/ude1 大脑/n 动脉/n 炎/ng 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 其他/rzv 脑血管/n 病/n 
+蛛网/n 膜/n 下/f 出血/vi 后遗症/n 
+脑/n 内出血/v 后遗症/n 
+其他/rzv 非/b 创伤/n 性/ng 颅/ng 内出血/v 后遗症/n 
+脑/n 梗/ng 死/v 后遗症/n 
+脑/n 卒/ng 中/f 后遗症/n ,/wd 未/d 特指/v 为/v 出血/vi 或/c 梗/v 死/v 
+其他/rzv 和/cc 未/d 特指/v 的/ude1 脑血管/n 病/n 后遗症/n 
+主动脉/n 的/ude1 动脉/n 粥/n 样/ng 硬化/vi 
+肾/n 动脉/n 的/ude1 动脉/n 粥/n 样/ng 硬化/vi 
+四肢/n 动脉/n 的/ude1 动脉/n 粥/n 样/ng 硬化/vi 
+其他/rzv 动脉/n 的/ude1 动脉/n 粥/n 样/ng 硬化/vi 
+全身性/n 和/cc 未/d 特指/v 的/ude1 动脉/n 粥/n 样/ng 硬化/vi 
+主动脉/n 夹层/n [任何部分]/xm 
+胸/ng 主动脉/n 瘤/ng 破裂/vi 
+胸/ng 主动脉/n 瘤/ng ,/wd 未/d 提及/v 破裂/vi 
+腹/ng 主动脉/n 瘤/ng 破裂/vi 
+腹/ng 主动脉/n 瘤/ng ,/wd 未/d 提及/v 破裂/vi 
+胸/ng 腹/ng 主动脉/n 瘤/ng 破裂/vi 
+胸/ng 腹/ng 主动脉/n 瘤/ng ,/wd 未/d 提及/v 破裂/vi 
+未/d 特指/v 部位/n 的/ude1 主/ag 动脉瘤/n 破裂/vi 
+未/d 特指/v 部位/n 的/ude1 主/ag 动脉瘤/n ,/wd 未/d 提及/v 破裂/vi 
+颈/ng 动脉瘤/n 
+上肢/n 动脉瘤/n 
+肾/n 动脉瘤/n 
+髂/n 动脉瘤/n 
+下肢/n 动脉瘤/n 
+其他/rzv 特指/v 动脉/n 的/ude1 动脉瘤/n 
+未/d 特指/v 部位/n 的/ude1 动脉瘤/n 
+雷/n 诺/nr1 综合征/n 
+血栓/n 闭塞/a 性/ng 血管/n 炎/ng [白格]/xm 
+其他/rzv 特指/v 的/ude1 周围/f 血管/n 疾病/n 
+未/d 特指/v 的/ude1 周围/f 血管/n 疾病/n 
+腹/ng 主动脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+主动脉/n 其他/rzv 和/cc 未/d 特指/v 部位/n 的/ude1 栓塞/n 和/cc 血栓/n 形成/v 
+上肢/n 动脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+下肢/n 动脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+未/d 特指/v 的/ude1 四肢/n 动脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+髂/n 动脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+其他/rzv 动脉/n 的/ude1 栓塞/n 和/cc 血栓/n 形成/v 
+未/d 特指/v 动脉/n 的/ude1 栓塞/n 和/cc 血栓/n 形成/v 
+后/f 天性/n 动静/n 脉/ng 瘘/n 
+动脉/n 狭窄/a 
+动脉/n 破裂/vi 
+动脉/n 纤维/n 肌肉/n 发育/vi 异常/a 
+腹腔/n 动脉/n 压迫/vn 综合征/n 
+动脉/n 坏死/vi 
+未/d 特指/v 的/ude1 动脉/n 炎/ng 
+动脉/n 和/cc 小/a 动脉/n 其他/rzv 特指/v 的/ude1 疾患/n 
+动脉/n 和/cc 小/a 动脉/n 未/d 特指/v 的/ude1 疾患/n 
+遗传性/n 出/vf 血性/n 毛/nr1 细/a 血管/n 扩张/vn 
+非/b 瘤/n 性/ng 痣/n 
+其他/rzv 的/ude1 毛/nr1 细/a 血管/n 疾病/n 
+未/d 特指/v 的/ude1 毛/nr1 细/a 血管/n 疾病/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 主动脉/n 动脉瘤/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 主动脉/n 炎/ng 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 周围/f 血管/n 病/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 动脉/n 、/wn 小/a 动脉/n 和/cc 毛/n 细/a 血管/n 的/ude1 其他/rzv 疾患/n 
+下肢/n 浅表/b 脉/ng 管/v 的/ude1 静脉炎/n 和/cc 血栓/n 性/ng 静脉炎/n 
+股/n 静脉/n 的/ude1 静脉炎/n 和/cc 血栓/n 性/ng 静脉炎/n 
+下肢/n 其他/rzv 深部/n 脉/ng 管/v 的/ude1 静脉炎/n 和/cc 血栓/n 性/ng 静脉炎/n 
+未/d 特指/v 的/ude1 下肢/n 静脉炎/n 和/cc 血栓/n 性/ng 静脉炎/n 
+其他/rzv 部位/n 的/ude1 静脉炎/n 和/cc 血栓/n 性/ng 静脉炎/n 
+未/d 特指/v 部位/n 的/ude1 静脉炎/n 和/cc 血栓/n 性/ng 静脉炎/n 
+巴德/nrf -/wp 基/ng 亚/b 里/f 综合征/n 
+移动/v 性/ng 血栓/n 静脉炎/n 
+腔/q 静脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+肾/n 静脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+其他/rzv 特指/v 的/ude1 静脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+未/d 特指/v 的/ude1 静脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+下肢/n 静脉/n 曲/n 张/q 伴有/v 溃疡/n 
+下肢/n 静脉/n 曲/n 张/q 伴有/v 炎症/n 
+下肢/n 静脉/n 曲/n 张/q 伴有/v 溃疡/n 和/cc 炎症/n 
+下肢/n 静脉/n 曲/n 张/q 不/d 伴有/v 溃疡/n 或/c 炎症/n 
+血栓/n 性/ng 内痔/n 
+内痔/n 伴/v 有/vyou 其他/rzv 并发症/n 
+内痔/n 不/d 伴有/v 并发症/n 
+血栓/n 性/ng 外痔/n 
+外痔/n 伴/v 有/vyou 其他/rzv 并发症/n 
+外痔/n 不/d 伴有/v 并发症/n 
+残留/v 的/ude1 痔/n 皮/n 赘/ag 
+未/d 特指/v 的/ude1 血栓/n 性/ng 痔/n 
+未/d 特指/v 的/ude1 痔/n 伴/v 有/vyou 其他/rzv 并发症/n 
+未/d 特指/v 的/ude1 痔/n 不/d 伴有/v 并发症/n 
+食管/n 静脉/n 曲/n 张/q 伴有/v 出血/vi 
+食管/n 静脉/n 曲/n 张/q 不/d 伴有/v 出血/vi 
+舌/n 下/vf 静脉/n 曲/n 张/q 
+阴囊/n 静脉/n 曲/n 张/q 
+盆腔/n 静脉/n 曲/n 张/q 
+外/f 阴/a 静脉/n 曲/n 张/q 
+胃/n 静脉/n 曲/n 张/q 
+其他/rzv 特指/v 部位/n 的/ude1 静脉/n 曲/n 张/q 
+静脉炎/n 后/f 综合征/n 
+静脉/n 受/v 压/v 
+静脉/n 功能/n 不/d 全/a (/wkz 慢性/b )/wky (/wkz 周围/f 性/ng )/wky 
+静脉/n 其他/rzv 特指/v 的/ude1 疾患/n 
+静脉/n 未/d 特指/v 的/ude1 疾患/n 
+非/b 特异/z 性/ng 肠系膜/n 淋巴结炎/n 
+慢性/b 淋巴结炎/n ,/wd 除外/vi 肠系膜/n 
+其他/rzv 非/b 特异/z 性/ng 淋巴结炎/n 
+未/d 特指/v 的/ude1 非/b 特异/z 性/ng 淋巴结炎/n 
+淋巴/n 水肿/n ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+淋巴管/n 炎/ng 
+淋巴管/n 和/cc 淋巴结/n 其他/rzv 特指/v 的/ude1 非/b 感染/v 性/ng 疾患/n 
+淋巴管/n 和/cc 淋巴结/n 未/d 特指/v 的/ude1 非/b 感染/v 性/ng 疾患/n 
+特/d 发/v 性/ng 低血压/n 
+直立/v 性/ng 低血压/n 
+药/n 物性/n 低血压/n 
+其他/rzv 低血压/n 
+未/d 特指/v 的/ude1 低血压/n 
+心脏/n 切开/v 术/ng 后/f 综合征/n 
+心脏/n 外科/n 手术/vi 后/f 的/ude1 其他/rzv 功能性/n 障碍/n 
+乳房/n 切除/v 术/ng 后/f 状态/n 淋巴/n 水肿/n 综合征/n 
+循环系统/nl 的/ude1 其他/rzv 操作/v 后/f 疾患/n ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+循环系统/nl 未/d 特指/v 的/ude1 操作/vn 后/f 疾患/n 
+心血管/n 梅毒/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 其他/rzv 传染病/n 和/cc 寄生虫/n 病/n 引起/v 的/ude1 心血管/n 疾患/n 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 食管/n 静脉/n 曲/n 张/q 不/d 伴有/v 出血/vi 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 食管/n 静脉/n 曲/n 张/q 伴有/v 出血/vi 
+分类/vi 于/p 他/rr 处/vi 的/ude1 疾病/n 引起/v 的/ude1 循环系统/nl 的/ude1 其他/rzv 特指/v 疾患/n 
+风湿热/n ,/wd 未/d 提及/v 心脏/n 受累/vi 
+风湿/n 性/ng 关节炎/n 
+急性/b 风湿/n 性/ng 心包炎/n 
+急性/b 风湿/n 性/ng 心/n 内/f 膜/n 炎/ng 
+急性/b 风湿/n 性/ng 心肌炎/n 
+急性/b 风湿/n 性/ng 心脏病/n ,/wd 其他/rzv 的/ude1 
+急性/b 风湿/n 性/ng 心脏病/n 
+风湿/n 性/ng 舞蹈/n 症/k 伴有/v 心脏/n 受累/vi 
+风湿/n 性/ng 舞蹈/n 症/k 不/d 伴有/v 心脏/n 受累/vi 
+二尖瓣/n 狭窄/a 
+风湿/n 性/ng 二尖瓣/n 关闭/v 不/d 全/a 
+二尖瓣/n 狭窄/a 伴有/v 关闭/v 不/d 全/a 
+二尖瓣/n 疾病/n ,/wd 其他/rzv 的/ude1 
+二尖瓣/n 钙化/vn 
+二尖瓣/n 疾病/n 
+风湿/n 性/ng 主动脉/n 瓣/q 狭窄/a 
+风湿/n 性/ng 主动脉/n 瓣/ng 关闭/v 不/d 全/a 
+风湿/n 性/ng 主动脉/n 瓣/q 狭窄/a 伴有/v 关闭/v 不/d 全/a 
+风湿/n 性/ng 主动脉/n 瓣/q 疾病/n ,/wd 其他/rzv 的/ude1 
+风湿/n 性/ng 主动脉/n 瓣/q 疾病/n 
+三/m 尖/a 瓣/q 狭窄/a 
+三/m 尖/ng 瓣/ng 关闭/v 不/d 全/a 
+三/m 尖/a 瓣/q 狭窄/a 伴有/v 关闭/v 不/d 全/a 
+三/m 尖/a 瓣/q 疾病/n ,/wd 其他/rzv 的/ude1 
+三/m 尖/a 瓣/q 疾病/n 
+二尖瓣/n 和/cc 主动脉/n 瓣/ng 的/ude1 疾患/n 
+二尖瓣/n 狭窄/a 伴/v 主动脉/n 瓣/ng 关闭/v 不/d 全/a 
+二尖瓣/n 关闭/v 不/d 全/d 伴/v 主动脉/n 瓣/q 狭窄/a 
+二尖瓣/n 关闭/v 不/d 全/d 伴/v 主动脉/n 瓣/q 狭窄/a 关闭/v 不/d 全/a 
+二尖瓣/n 狭窄/a 伴/v 主动脉/n 瓣/q 狭窄/a 关闭/v 不/d 全/a 
+二尖瓣/n 狭窄/a 关闭/v 不/d 全/d 伴/v 主动脉/n 瓣/ng 关闭/v 不/d 全/a 
+二尖瓣/n 及/cc 主动脉/n 瓣/ng 关闭/v 不/d 全/a 
+二尖瓣/n 及/cc 主动脉/n 瓣/q 狭窄/a 伴/v 关闭/v 不/d 全/a 
+二尖瓣/n 及/cc 主动脉/n 瓣/q 狭窄/a 
+二尖瓣/n 狭窄/a 关闭/v 不/d 全/d 伴/v 主动脉/n 瓣/q 狭窄/a 
+二尖瓣/n 和/cc 三/m 尖/ng 瓣/ng 的/ude1 疾患/n 
+二尖瓣/n 狭窄/a 伴/v 三/m 尖/ng 瓣/ng 关闭/v 不/d 全/a 
+二尖瓣/n 狭窄/a 关闭/v 不/d 全/d 伴/v 三/m 尖/ng 瓣/ng 关闭/v 不/d 全/a 
+二尖瓣/n 及/cc 三/m 尖/ng 瓣/ng 关闭/v 不/d 全/a 
+二尖瓣/n 及/cc 三/m 尖/a 瓣/q 狭窄/a 
+主动脉/n 瓣/ng 和/cc 三/m 尖/ng 瓣/ng 的/ude1 疾患/n 
+主动脉/n 瓣/ng 及/cc 三/m 尖/ng 瓣/ng 关闭/v 不/d 全/a 
+二尖瓣/n 、/wn 主动脉/n 瓣/ng 和/cc 三/m 尖/ng 瓣/ng 的/ude1 合并/vn 疾患/n 
+二尖瓣/n 狭窄/a 关闭/v 不/d 全/d 伴/v 主动脉/n 瓣/ng 及/cc 三/m 尖/ng 瓣/ng 关闭/v 不/d 全/a 
+二尖瓣/n 狭窄/an 及/cc 主动脉/n 瓣/ng 三/m 尖/ng 瓣/ng 关闭/v 不/d 全/a 
+二尖瓣/n 主动脉/n 瓣/ng 及/cc 三/m 尖/ng 瓣/ng 关闭/v 不/d 全/a 
+二尖瓣/n 主动脉/n 瓣/ng 及/cc 三/m 尖/a 瓣/q 狭窄/a 关闭/v 不/d 全/a 
+二尖瓣/n 狭窄/a 关闭/v 不/d 全/d 伴/v 主动脉/n 瓣/ng 三/m 尖/a 瓣/q 狭窄/a 
+二尖瓣/n 主动脉/n 瓣/q 狭窄/a 关闭/v 不/d 全/d 伴/v 三/m 尖/ng 瓣/ng 关闭/v 不/d 全/a 
+多/m 个/q 心/n 瓣膜/n 疾病/n ,/wd 其他/rzv 的/ude1 
+二尖瓣/n 狭窄/an 及/cc 闭/v 锁/v 不/d 全/a 肺动脉/n 瓣/ng 闭/v 锁/v 不/d 全/a 
+多/m 个/q 心/n 瓣膜/n 疾病/n 
+风湿/n 性/ng 联合/v 瓣膜/n 病/n 
+风湿/n 性/ng 心肌炎/n 
+瓣膜/n 风湿/n 性/ng 心/n 内/f 膜/n 疾病/n 
+慢性/b 风湿/n 性/ng 心包炎/n 
+风湿/n 性/ng 心脏病/n ,/wd 其他/rzv 特指/v 的/ude1 
+风湿/n 性/ng 肺动脉/n 瓣/q 狭窄/a 
+风湿/n 性/ng 肺动脉/n 瓣/ng 关闭/v 不/d 全/a 
+风湿/n 性/ng 心脏病/n 
+特/d 发/v 性/ng (/wkz 原/b 发/v 性/ng )/wky 高血压/n 
+临界/b 性/n 高血压/n 
+恶性/b 高血压/n 
+高血压/n 1/m 级/q 
+高血压/n 2/m 级/q 
+高血压/n 3/m 级/q 
+高血压/n 危/ag 象/ng 
+良性/b 高血压/n 
+老年/t 收缩/v 期/qv 高血压/n 
+原/d 发/v 性/ng 高血压/n 
+高血压/n 急症/n 
+单纯/ad 收缩/v 期/qv 高血压/n 
+难/ad 治/v 性/ng 高血压/n 
+低/a 肾/n 素性/n 高血压/n 
+高血压/n 亚/b 急症/n 
+高血压/n 心脏病/n 伴有/v (/wkz 充/v 血性/n )/wky 心力衰竭/n 
+高血压/n 性/ng 心力衰竭/n 
+高血压/n 心脏病/n 伴/v 心力衰竭/n 
+高血压/n 心脏病/n 不/d 伴/v 有/vyou (/wkz 充/v 血性/n )/wky 心力衰竭/n 
+高血压/n 性/ng 心脏病/n 
+高血压/n 肾脏/n 病/n 伴有/v 肾衰竭/n 
+高血压/n 肾脏/n 病/n 不/d 伴有/v 肾衰竭/n 
+肾/n 动脉硬化/nl 
+肾/n 小/a 动脉硬化/nl 症/ng 
+高血压/n 心脏/n 和/cc 肾脏/n 病/n 伴/v 有/vyou (/wkz 充/v 血性/n )/wky 心力衰竭/n 
+高血压/n 心脏/n 和/cc 肾脏/n 病/n 伴有/v 肾衰竭/n 
+高血压/n 心脏/n 和/cc 肾脏/n 病/n 同时/c 伴/v 有/vyou (/wkz 充/v 血性/n )/wky 心力衰竭/n 和/cc 肾衰竭/n 
+高血压/n 心脏/n 和/cc 肾脏/n 病/n 
+肾/n 血管/n 性/ng 高血压/n 
+继发/nr2 于/p 其他/rzv 肾/n 疾患/n 的/ude1 高血压/n 
+利/n 德/n 尔/Rg 综合征/n 
+肾/n 性/ng 高血压/n 
+肾/n 萎缩/vi 伴有/v 高血压/n 
+继发/nr2 于/p 内分泌/n 疾患/n 的/ude1 高血压/n 
+继发/nr2 性/ng 高血压/n ,/wd 其他/rzv 的/ude1 
+继发/nr2 性/ng 高血压/n 
+不/d 稳定性/n 心绞痛/n 
+增强/v 型/k 心绞痛/n 
+初/f 发型/n 劳力/n 性/ng 心绞痛/n 
+恶化/vi 劳力/n 性/ng 心绞痛/n 
+卧/vi 位/q 型/k 心绞痛/n 
+心肌/n 梗/ng 死/v 后/f 心绞痛/n 
+心肌/n 梗/ng 死/v 前/f 综合征/n 
+心绞痛/n 伴有/v 确证/v 的/ude1 痉挛/vn 
+变/v 异型/b 心绞痛/n 
+冠状动脉/nl 痉挛/vn 
+心绞痛/n ,/wd 其他/rzv 类型/n 的/ude1 
+稳定/v 型/k 心绞痛/n 
+X/n 综合征/n 
+劳力/n 型心/n 绞痛/v 
+混合型/b 心绞痛/n 
+慢性/b 稳定/a 型/k 心绞痛/n 
+心绞痛/n 
+前/f 壁/ng 急性/d 透/v 壁/ng 性/ng 心肌/n 梗/ng 死/v 
+下/vf 壁/ng 急性/d 透/v 壁/ng 性/ng 心肌/n 梗/ng 死/v 
+急性/b ST/n 段/ng 抬高/v 型/k 下/vf 间/f 壁/ng 心肌/n 梗/ng 死/v 
+急性/b ST/n 段/ng 抬高/v 型/k 下/vf 侧/ng 壁/ng 心肌/n 梗/ng 死/v 
+急性/b 下/f 壁/ng 心肌/n 梗/ng 死/v 
+急性/b 下/f 间/f 壁/ng 心肌/n 梗/ng 死/v 
+急性/b 下/f 侧/v 壁/ng 心肌/n 梗/ng 死/v 
+急性/b 透/v 壁/ng 心肌/n 梗/ng 死/v ,/wd 其他/rzv 部位/n 的/ude1 
+急性/b ST/n 段/ng 抬高/v 型/k 高/a 侧/ng 壁/ng 心肌/n 梗/ng 死/v 
+急性/b ST/n 段/ng 抬高/v 型/k 正/d 后/f 壁/ng 心肌/n 梗/ng 死/v 
+急性/b ST/n 段/ng 抬高/v 型/k 右/f 室/n 心肌/n 梗/ng 死/v 
+急性/b 高/a 侧/ng 壁/ng 心肌/n 梗/ng 死/v 
+急性/b 正/b 后/f 壁/ng 心肌/n 梗/ng 死/v 
+急性/b 右/f 室/n 心肌/n 梗/ng 死/v 
+急性/b 下/f 壁/ng 右/f 心室/n 心肌/n 梗/ng 死/v 
+急性/b 下/f 壁/ng 正/d 后/f 壁/ng 心肌/n 梗/ng 死/v 
+急性/b 侧/ng 壁/ng 心肌/n 梗/ng 死/v 
+急性/b 前/f 壁/ng 下/f 壁/ng 心肌/n 梗/ng 死/v 
+急性/b 下/f 壁/ng 侧/ng 壁/ng 正/d 后/f 壁/ng 心肌/n 梗/ng 死/v 
+急性/b 透/v 壁/ng 性/ng 心肌/n 梗/ng 死/v 
+急性/b ST/n 段/ng 抬高/v 型心/n 肌/ng 梗/ng 死/v 
+冠状动脉/nl 旁/f 路/n 术/ng 后/f 心肌/n 梗/ng 死/v 
+冠状动脉/nl 介入/v 治疗/v 术/ng 后/f 心肌/n 梗/ng 死/v 
+急性/b 心/n 内/f 膜/n 下/vf 心肌/n 梗/ng 死/v 
+急性/b 非/b ST/n 段/ng 抬高/v 型心/n 肌/ng 梗/ng 死/v 
+急性/b 心肌/n 梗/ng 死/v 
+冠状动脉/nl 破裂/vi 
+急性/b 多/m 壁/q 心肌/n 梗/ng 死/v 
+前/f 壁/ng 的/ude1 随后/d 性/ng 心肌/n 梗/ng 死/v 
+下/vf 壁/ng 的/ude1 随后/d 性/ng 心肌/n 梗/ng 死/v 
+随后/d 性/ng 心肌/n 梗/ng 死/v ,/wd 其他/rzv 部位/n 的/ude1 
+随后/d 性/ng 心肌/n 梗/ng 死/v 
+心包/n 积/v 血/n 作为/p 急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 近期/t 并发症/n 
+房/n 间隔/vd 缺损/v 作为/p 急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 近期/t 并发症/n 
+室/n 间隔/vd 缺损/v 作为/p 急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 近期/t 并发症/n 
+心/n 壁/ng 破裂/vi 不/d 伴有/v 心包/n 积/v 血/n 作为/p 急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 近期/t 并发症/n 
+腱/n 索/vg 断裂/vi 作为/p 急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 近期/t 并发症/n 
+乳头/n 肌/ng 断裂/vi 作为/p 急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 近期/t 并发症/n 
+心房/n 、/wn 心/n 耳/n 和/cc 心室/n 的/ude1 血栓/n 形成/v 作为/p 急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 近期/t 并发症/n 
+急性/b 心肌/n 梗/ng 死/v 后/f 心室/n 附/v 壁/ng 血栓/n 形成/v 
+急性/b 心肌/n 梗/ng 死/v 后/f 的/ude1 其他/rzv 近期/t 并发症/n 
+冠状动脉/nl 血栓/n 形成/v ,/wd 未/d 造成/v 心肌/n 梗/ng 死/v 
+冠状动脉/nl 支架/n 内/f 血栓/n 形成/v 
+冠状动脉/nl 闭塞/a 
+冠状动脉/nl 栓塞/n 
+德/n 雷斯/nsf 勒/v 综合征/n 
+急性/b 缺血/v 性/ng 心脏病/n ,/wd 其他/rzv 类型/n 的/ude1 
+急性/b 冠状动脉/nl 供/vi 血/n 不足/an 
+急性/b 缺血/v 性/ng 心脏病/n 
+急性/b 冠/ng 脉/ng 综合征/n 
+被/pbei 描述/v 为/v 动脉硬化/nl 性/ng 心血管/n 病/n 
+动脉硬化/nl 性/ng 心脏病/n 
+冠状动脉/nl 狭窄/a 
+冠状动脉/nl 粥/n 样/ng 硬化/vi 
+冠状动脉/nl 粥/n 样/ng 硬化/vi 性/ng 心脏病/n 
+冠心病/n 心律/n 失常/a 型/k 
+陈旧/a 性/ng 心肌/n 梗/ng 死/v 
+陈旧/a 性/ng 高/a 侧/ng 壁/ng 心肌/n 梗/ng 死/v 
+陈旧/a 性/ng 后/f 壁/ng 心肌/n 梗/ng 死/v 
+陈旧/a 性/ng 前/f 壁/ng 心肌/n 梗/ng 死/v 
+陈旧/a 性/ng 前/f 间/f 壁/ng 心肌/n 梗/ng 死/v 
+陈旧/a 性/ng 下/f 壁/ng 后/f 壁/ng 心肌/n 梗/ng 死/v 
+陈旧/a 性/ng 下/f 壁/ng 前/f 壁/ng 心肌/n 梗/ng 死/v 
+陈旧/a 性/ng 下/f 壁/ng 心肌/n 梗/ng 死/v 
+陈旧/a 性/ng 下/f 壁/ng 正/d 后/f 壁/ng 心肌/n 梗/ng 死/v 
+心脏/n 动脉瘤/n 
+心室/n 壁/ng 瘤/ng 
+心房/n 壁/ng 瘤/ng 
+冠状动脉/nl 动脉瘤/n 
+后/f 天性/n 冠状动脉/nl 动静/n 脉/ng 瘘/n 
+冠状动脉/nl 扩张/vn 
+缺/v 血性/n 心肌/n 病/n 
+无/v 症状/n 心肌/n 缺血/v 
+慢性/b 缺血/v 性/ng 心脏病/n ,/wd 其他/rzv 类型/n 的/ude1 
+慢性/b 冠状动脉/nl 供/vi 血/n 不足/an 
+冠状动脉/nl 炎/ng 
+慢性/b 缺血/v 性/ng 心脏病/n 
+冠状动脉/nl 性/ng 心脏病/n 
+冠状动脉/nl 缺血/v 
+肺/n 栓塞/n 提及/v 急性/b 肺/n 源/ng 性/ng 心脏病/n 
+急性/b 肺/n 原/b 性/n 心脏病/n 
+肺/n 栓塞/n 未/d 提及/v 急性/b 肺/n 源/ng 性/ng 心脏病/n 
+肺/n 血栓/n 形成/v 
+慢性/b 肺/n 血栓/n 栓塞/n 症/ng 
+原/d 发/v 性/ng 肺动脉/n 高压/n 
+肺动脉/n 高压/n 中度/b 
+肺动脉/n 高压/n 重度/b 
+脊柱/n 后/f 侧/v 凸/ag 性/ng 心脏病/n 
+继发/nr2 性/ng 肺动脉/n 高压/n ,/wd 其他/rzv 的/ude1 
+继发/nr2 性/ng 肺动脉/n 高压/n 
+慢性/b 血栓/n 栓塞/n 性/ng 肺动脉/n 高压/n 症/ng 
+肺/n 源/ng 性/ng 心脏病/n ,/wd 其他/rzv 特指/v 的/ude1 
+肺/n 源/ng 性/ng 心脏病/n 
+肺/n 血管/n 动/v 静脉/n 瘘/n 
+肺动脉/n 的/ude1 动脉瘤/n 
+肺/n 血管/n 其他/rzv 特指/v 的/ude1 疾病/n 
+肺动脉/n 扩张/vn 
+肺静脉/n 狭窄/a 
+后/f 天性/n 肺动脉/n 狭窄/a 
+肺静脉/n 闭塞/a 症/ng 
+肺/n 血管/n 未/d 特指/v 的/ude1 病/n 
+急性/b 非/b 特异/z 性/n 特/ag 发/v 性/ng 心包炎/n 
+感染/v 性/ng 心包炎/n 
+化脓/vi 性/ng 心包炎/n 
+细菌/n 性/ng 心包炎/n 
+病/n 毒性/n 心包炎/n 
+急性/b 心包炎/n ,/wd 其他/rzv 类型/n 的/ude1 
+纤维/n 蛋白/n 性/ng 心包炎/n 
+急性/b 心包炎/n 
+慢性/b 粘连/vi 性/ng 心包炎/n 
+心包/n 粘连/vi 
+慢性/b 缩/vi 窄/a 性/ng 心包炎/n 
+心包/n 钙化/vn 
+心包/n 积/v 血/n ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+心包/n 积/v 液/ng (/wkz 非/b 炎性/nr )/wky 
+乳糜/n 性/ng 心包/n 积/v 液/ng 
+包裹/n 性/ng 心包/n 积/v 液/ng 
+心包/n 其他/rzv 特指/v 的/ude1 疾病/n 
+心包/n 疾病/n 
+心包/n 压/v 塞/v 
+心包炎/n 
+非/b 特异/z 性/ng 心包炎/n 
+慢性/b 心包炎/n 
+急性/b 和/cc 亚/b 急性/b 感染/v 性/ng 心/n 内/f 膜/n 炎/ng 
+急性/b 感染/v 性/ng 心/n 内/f 膜/n 炎/ng 
+亚/b 急性/b 感染/v 性/ng 心/n 内/f 膜/n 炎/ng 
+链球菌/n 性/ng 心/n 内/f 膜/n 炎/ng 
+真菌/n 性/ng 心/n 内/f 膜/n 炎/ng 
+细菌/n 性/ng 心/n 内/f 膜/n 炎/ng 
+感染/v 性/ng 心/n 内/f 膜/n 炎性/nr 赘/ag 生物/n 
+亚/b 急性/b 细菌/n 性/ng 心/n 内/f 膜/n 炎/ng 
+二尖瓣/n 赘/ag 生物/n 
+主动脉/n 瓣/ng 赘/ag 生物/n 
+三/m 尖/ng 瓣/ng 赘/ag 生物/n 
+肺动脉/n 瓣/ng 赘/ag 生物/n 
+奥斯勒/nrf 结节/n 
+急性/b 心/n 内/f 膜/n 炎/ng 
+二/m 尖/ng (/wkz 瓣/q )/wky 关闭/v 不/d 全/a 
+二尖瓣/n 返/v 流/v 
+乳头/n 肌/ng 功能/n 不/d 全/a 
+二/m 尖/ng (/wkz 瓣/q )/wky 脱/v 垂/v 
+二尖瓣/n 脱/v 垂/v 综合征/n 
+二尖瓣/n 后/f 叶/ng 脱/v 垂/v 
+非/b 风湿/n 性/ng 二/m 尖/ng (/wkz 瓣/q )/wky 狭窄/a 
+二尖瓣/n 术/ng 后/f 狭窄/a 
+老年/t 钙化/vi 性/ng 二尖瓣/n 狭窄/a 
+非/b 风湿/n 性/ng 二尖瓣/n 疾患/n ,/wd 其他/rzv 的/ude1 
+非/b 风湿/n 性/ng 二尖瓣/n 狭窄/a 伴/v 闭/v 锁/v 不/d 全/a 
+二尖瓣/n 腱/n 索/vg 断裂/vi 
+二尖瓣/n 退/v 行/ng 性/ng 变/v 
+非/b 风湿/n 性/ng 二尖瓣/n 疾患/n 
+主动脉/n (/wkz 瓣/q )/wky 狭窄/a 
+主动脉/n (/wkz 瓣/q )/wky 关闭/v 不/d 全/a 
+心/n 内/f 膜/n 炎/ng 伴/v 主动脉/n 瓣/ng 闭/v 锁/v 不/d 全/a 
+主动脉/n (/wkz 瓣/q )/wky 狭窄/a 伴有/v 关闭/v 不/d 全/a 
+主动脉/n 瓣/q 疾患/n ,/wd 其他/rzv 的/ude1 
+主动脉/n 瓣/ng 硬化/vi 
+主动脉/n 瓣/q 松软/a 综合征/n 
+心/n 内/f 膜/n 炎/ng 伴/v 主动脉/n 瓣/ng 穿孔/v 
+退/v 行/ng 性/ng 主动脉/n 瓣/q 疾患/n 
+主动脉/n 瓣/ng 增/v 厚/a 
+主动脉/n 瓣/q 钙化/vn 
+主动脉/n 瓣/q 周/nr1 脓肿/n 
+主动脉/n 瓣/ng 脱/v 垂/v 
+主动脉/n 瓣/q 疾患/n 
+非/b 风湿/n 性/ng 三/m 尖/ng (/wkz 瓣/q )/wky 狭窄/a 
+非/b 风湿/n 性/ng 三/m 尖/ng (/wkz 瓣/q )/wky 关闭/v 不/d 全/a 
+非/b 风湿/n 性/ng 三/m 尖/ng (/wkz 瓣/q )/wky 狭窄/a 伴有/v 关闭/v 不/d 全/a 
+非/b 风湿/n 性/ng 三/m 尖/a 瓣/q 疾患/n ,/wd 其他/rzv 的/ude1 
+非/b 风湿/n 性/ng 三/m 尖/ng 瓣/ng 脱/v 垂/v 
+非/b 风湿/n 性/ng 三/m 尖/a 瓣/q 疾患/n 
+肺动脉/n 瓣/q 狭窄/a 
+肺动脉/n 瓣/ng 关闭/v 不/d 全/a 
+肺动脉/n 瓣/q 狭窄/a 伴有/v 关闭/v 不/d 全/a 
+肺动脉/n 瓣/q 疾患/n ,/wd 其他/rzv 的/ude1 
+肺动脉/n 瓣/q 疾患/n 
+瓣膜/n 心/n 内/f 膜/n 炎/ng 
+心脏/n 瓣膜/n 病/n 
+心/n 瓣膜/n 穿孔/v 
+心/n 瓣膜/n 钙化/vn 
+感染/v 性/ng 心肌炎/n 
+病/n 毒性/n 心肌炎/n 
+急性/b 细菌/n 性/ng 心肌炎/n 
+病/n 毒性/n 心肌炎/n 后遗症/n 
+孤立/v 性/ng 心肌炎/n 
+急性/b 心肌炎/n ,/wd 其他/rzv 的/ude1 
+急性/b 心肌炎/n 
+扩张型/b 心肌/n 病/n 
+梗阻/vi 性/ng 肥厚/a 型心/n 肌/ng 病/n 
+肥厚/a 型/k 梗阻/vi 性/ng 心肌/n 病/n 
+肥厚/a 型心/n 肌/ng 病/n ,/wd 其他/rzv 的/ude1 
+心尖/n 肥厚/a 型心/n 肌/ng 病/n 
+心/n 内/f 膜/n 心肌/n (/wkz 嗜/vg 酸性/n )/wky 病/n 
+心/n 内/f 膜/n 心/n 肌纤维/n 化/v 
+心/n 内/f 膜/n 弹力/n 纤维/n 增生/vi 症/ng 
+先天性/b 心肌/n 病/n 
+限制/v 型心/n 肌/ng 病/n ,/wd 其他/rzv 的/ude1 
+缩/vi 窄/a 性/ng 心肌/n 病/n 
+酒精/n 性/ng 心肌/n 病/n 
+药物/n 和/cc 其他/rzv 外部/f 因素/n 引起/v 的/ude1 心肌/n 病/n 
+药/n 物性/n 心肌/n 病/n 
+心肌/n 病/n ,/wd 其他/rzv 的/ude1 
+心尖/n 球/n 囊/ng 样/ng 综合征/n 
+心动/v 过速/a 性/ng 心肌/n 病/n 
+心肌/n 病/n 
+继发/nr2 性/ng 心肌/n 病/n 
+家族/n 性/ng 心肌/n 病/n 
+右/f 室/n 心肌/n 病/n 
+特/ag 异性/n 心肌/n 病/n 
+一/m 度/qv 房室/n 传导/v 阻滞/v 
+二/m 度/qv 房室/n 传导/v 阻滞/v 
+Ⅱ/m 度/qv 一/m 型/k 房室/n 传导/v 阻滞/v 
+Ⅱ/m 度/qv 二/m 型/k 房室/n 传导/v 阻滞/v 
+完全性/n 房室/n 传导/v 阻滞/v 
+房室/n 传导/vn 阻滞/vn ,/wd 其他/rzv 的/ude1 
+室内/s 传导/v 阻滞/v 
+部分/m 房室/n 传导/v 阻滞/v 
+房室/n 传导/v 阻滞/v 
+左/f 前/f 分支/n 传导/v 阻滞/v 
+左/f 后/f 分支/n 传导/v 阻滞/v 
+分支/n 传导/vn 阻滞/vn ,/wd 其他/rzv 的/ude1 
+不/d 完全性/n 左/f 束/v 支/q 传导/v 阻滞/v 
+完全性/n 左/f 束/v 支/q 传导/v 阻滞/v 
+左/f 束/v 支/q 传导/v 阻滞/v 
+右/f 分支/n 传导/v 阻滞/v 
+右/f 束/v 支/q 传导/vn 阻滞/vn ,/wd 其他/rzv 的/ude1 
+不/d 完全性/n 右/f 束/v 支/q 传导/v 阻滞/v 
+完全性/n 右/f 束/v 支/q 传导/v 阻滞/v 
+右/f 束/v 支/q 传导/v 阻滞/v 
+双/m 分支/n 传导/v 阻滞/v 
+三分/t 支/q 传导/v 阻滞/v 
+非/b 特异/z 性/n 室内/s 传导/v 阻滞/v 
+束/v 支/q 传导/v 阻滞/v 
+心脏/n 传导/vn 阻滞/vn ,/wd 其他/rzv 特指/v 的/ude1 
+窦/nr1 房/n 传导/v 阻滞/v 
+窦性/nr 停/vi 搏/vg 
+预/d 激/v 综合征/n 
+劳恩/nrf -/wp 加/v 农/ng -/wp 莱/q 文/ng 综合征/n 
+隐性/b 预/d 激/v 综合征/n 
+传导/v 疾患/n ,/wd 其他/rzv 特指/v 的/ude1 
+短/a QT/n 综合征/n 
+房室/n 结/v 双/m 径/ng 路/n 
+长/v QT/n 综合征/n 
+先天性/b QT/n 间/f 期/qv 延长/v 
+继发/nr2 性/n QT/n 间/f 期/qv 延长/v 
+传导/v 疾患/n 
+阿/b -/wp 斯/b 综合征/n 
+心脏/n 停/vi 搏/vg 复苏/vi 成功/an 
+被/pbei 描述/v 为/p 心脏/n 性/ng 猝死/vi 
+心脏/n 停/vi 搏/vg 
+呼吸/v 心跳/vi 骤/d 停/vi 
+折返/v 性/ng 室/n 性/ng 心律/n 失常/a 
+室/n 上/f 性/ng 心动/v 过速/a 
+房/n 性/ng 心动/v 过速/a 
+阵/ng 发/v 性/ng 室/n 上/f 性/ng 心动/v 过速/a 
+阵/ng 发/v 性/ng 交界/vi 性/ng 心动/v 过速/a 
+阵/ng 发/v 性/ng 房室/n 折返/v 性/ng 心动/v 过速/a 
+交界/vi 性/ng 心动/v 过速/a 
+阵/ng 发/v 性/ng 房室/n 结/v 内/f 折返/v 性/ng 心动/v 过速/a 
+非/b 阵/ng 发/v 性/ng 交界/vi 性/ng 心动/v 过速/a 
+阵/ng 发/v 性/ng 房/n 性/ng 心动/v 过速/a 
+阵/ng 发/v 性/ng 房室/n 性/ng 心动/v 过速/a 
+房/n 内/f 折返/v 性/ng 心动/v 过速/a 
+局/n 灶/n 性/ng 房/n 性/ng 心动/v 过速/a 
+室/n 性/ng 心动/v 过速/a 
+阵/ng 发/v 性/ng 室/n 性/ng 心动/v 过速/a 
+非/b 阵/ng 发/v 性/ng 室/n 性/ng 心动/v 过速/a 
+持续性/n 室/n 性/ng 心动/v 过速/a 
+阵/ng 发/v 性/ng 心动/v 过速/a 
+心房/n 纤/ng 颤/vi 和/cc 扑/v 动/v 
+心房/n 颤动/vi 
+阵/ng 发/v 性/ng 心房/n 纤/ng 颤/vi 
+心房/n 扑/v 动/v 
+阵/ng 发/v 性/ng 心房/n 扑/v 动/v 
+特/d 发/v 性/ng 心房/n 纤/ng 颤/vi 
+不/d 纯/a 性/ng 心房/n 扑/v 动/v 
+心室/n 纤/ng 颤/vi 和/cc 扑/v 动/v 
+心室/n 颤动/vi 
+心室/n 扑/v 动/v 
+Brugada/n 综合征/n 
+心房/n 过早/d 除/p 极/d 
+频/ag 发/v 性/ng 房/n 性/ng 期/ng 外/f 收缩/v 
+交界/vi 性/ng 过早/d 除/p 极/d 
+心室/n 过早/d 除/p 极/d 
+频/ag 发/v 性/ng 室/n 性/ng 期/ng 外/f 收缩/v 
+室/n 性/k 自/p 搏/vg 
+阵/ng 发/v 性/ng 室/n 性/ng 期/ng 外/f 收缩/v 
+过早/d 除/p 极/ng ,/wd 其他/rzv 的/ude1 
+频/ag 发/v 性/ng 期/ng 外/f 收缩/v 
+偶发/b 房室/n 性/ng 期/ng 外/f 收缩/v 
+结/v 性/ng 逸/ag 搏/vg 
+过早/d 除/p 极/d 
+病态/n 窦性/nr 综合征/n 
+快慢/n 综合征/n 
+心律/n 失常/a ,/wd 其他/rzv 特指/v 的/ude1 
+窦性/nr 心律/n 失常/a 
+室/n 性/ng 心律/n 失常/a 
+心律/n 失常/a 
+充/v 血性/n 心力衰竭/n 
+右/f 心/n 衰竭/vi 
+全/a 心/n 衰竭/vi 
+左/a 心室/n 衰竭/vi 
+急性/b 左/a 心/n 衰竭/vi 
+左/a 心房/n 衰竭/vi 
+左/a 心/n 衰竭/vi 合并/v 急性/b 肺水肿/n 
+心/n 源/ng 性/ng 哮喘/n 
+慢性/b 左/a 心功能/n 不/d 全/a 
+心力衰竭/n 
+心功能/n 不/d 全/a 
+心功能/n Ⅰ/m 级/q 
+心功能/n Ⅱ/m 级/q 
+心功能/n Ⅲ/m 级/q 
+心功能/n Ⅳ/m 级/q 
+心肌/n 损害/v 
+急性/b 心力衰竭/n 
+慢性/b 心力衰竭/n 
+心/n 间隔/vd 缺损/v ,/wd 后/f 天性/n 
+后/f 天性/n 房/n 间隔/vd 缺损/v 
+腱/n 索/vg 断裂/vi ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+乳头/n 肌/ng 断裂/vi ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+心/n 内/f 血栓/n 形成/v ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+心室/n 血栓/n 
+心房/n 血栓/n 
+心/n 耳/n 血栓/n 
+心尖/n 部/q 血栓/n 
+心肌炎/n 
+老年性/n 心肌炎/n 
+老年性/n 心脏病/n 
+心肌炎/n 后遗症/n 
+间/f 质/ng 性/ng 心肌炎/n 
+心肌/n 变性/vn 
+老年性/n 心肌/n 变性/vn 
+心肌/n 脂肪/n 变性/vn 
+心血管/n 疾病/n 
+心脏/n 肥大/a 
+左/a 室/n 肥大/a 
+右/f 室/n 肥大/a 
+左/a 房/n 扩大/v 
+右/f 房/n 扩大/v 
+运动员/n 心脏/n 综合征/n 
+室/n 间隔/n 肥大/a 
+心房/n 肥大/a 
+心肌/n 肥厚/a 
+心室/n 肥厚/a 
+心室/n 扩大/v 
+心脏病/n ,/wd 其他/rzv 不/d 明确/a 的/ude1 
+心室/n 假/a 腱/n 索/vg 
+全心炎/nr 
+心脏病/n 
+心脏/n 肿/vi 物/ng 
+心房/n 肿/vi 物/ng 
+贫/ag 血性/n 心脏病/n 
+颈/ng 动脉/n 弯/ng 管/v 和/cc 杈/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+颈/ng 动脉/n 动脉瘤/n 破裂/vi 伴/v 蛛/n 网膜/n 下/vf 腔/ng 出血/vi 
+大脑/n 中/b 动脉/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+大脑/n 中/b 动脉瘤/n 破裂/vi 伴/v 蛛/n 网膜/n 下/vf 腔/ng 出血/vi 
+前/f 交通/n 动脉/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+前/f 交通/n 动脉瘤/n 破裂/vi 伴/v 蛛/n 网膜/n 下/vf 腔/ng 出血/vi 
+后/f 交通/n 动脉/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+后/f 交通/n 动脉瘤/n 破裂/vi 伴/v 蛛/n 网膜/n 下/vf 腔/ng 出血/vi 
+基/ng 底/f 动脉/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+基/ng 底/f 动脉瘤/n 破裂/vi 伴/v 蛛/n 网膜/n 下/vf 腔/ng 出血/vi 
+椎/n 动脉/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+颅/ng 内/f 动脉/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n ,/wd 其他/rzv 的/ude1 
+小/a 脑/n 后/f 下/vf 动脉/n 动脉瘤/n 破裂/vi 伴/v 蛛/n 网膜/n 下/vf 腔/ng 出血/vi 
+颅/ng 内/f 动脉/n 的/ude1 蛛网/n 膜/n 下/f 出/vf 血/n 
+颅/ng 内/f 动脉瘤/n 破裂/vi 伴/v 蛛/n 网膜/n 下/vf 腔/ng 出血/vi 
+蛛网/n 膜/n 下/f 出/vf 血/n ,/wd 其他/rzv 的/ude1 
+脑/n 动/v 静脉/n 畸形/n 破裂/vi 伴/v 蛛/n 网膜/n 下/vf 腔/ng 出血/vi 
+脑膜/n 出血/vi 
+蛛网/n 膜/n 下/f 出/vf 血/n 
+脑/n 动脉瘤/n 破裂/vi 
+眼/n -/wp 脑/n 综合征/n 
+大脑/n 半球/n 的/ude1 脑/n 内出血/v ,/wd 皮质/n 下/f 
+豆/n 状/ng 核/n 出血/vi 
+大脑/n 皮质/n 下/f 出/vf 血/n 
+大/a 脑/n 后/f 动脉/n 出血/vi 
+基/ng 底/f 节/n 出血/vi 
+内/f 囊/ng 出血/vi 
+外/f 囊/ng 出血/vi 
+大脑/n 半球/n 的/ude1 脑/n 内出血/v ,/wd 皮质/n 的/ude1 
+脑/n 叶/ng 出血/vi 
+大脑/n 半球/n 的/ude1 脑/n 内出血/v 
+脑/n 干/v 的/ude1 脑/n 内出血/v 
+脑/n 桥/n 出血/vi 
+小脑/n 的/ude1 脑/n 内出血/v 
+脑/n 内出血/v ,/wd 脑/n 室内/s 
+脑/n 内出血/v ,/wd 多/m 处/q 局限性/n 
+脑/n 内出血/v ,/wd 其他/rzv 的/ude1 
+间脑/n 出血/vi 
+丘脑/n 出血/vi 
+丘脑/n 下部/f 出血/vi 
+脑/n 内出血/v 
+大脑/n 中/b 动脉/n 出血/vi 
+高血压/n 脑/n 出血/vi 
+脑/n 血肿/n 
+出/vf 血性/n 脑/n 软化/vi 
+脑血管/n 破裂/vi 
+硬/a 膜/n 下/f 出/vf 血/n (/wkz 急性/b )/wky (/wkz 非/b 创伤/n 性/ng )/wky 
+硬/a 膜/n 下/vf 血肿/n 
+急性/b 硬/a 膜/n 下/f 出/vf 血/n 
+慢性/b 硬/a 膜/n 下/vf 血肿/n 
+非/b 创伤/n 性/ng 硬/a 膜/n 外出血/v 
+硬/a 膜/n 外/f 血肿/n 
+颅/ng 内出血/v (/wkz 非/b 创伤/n 性/ng )/wky 
+入/v 脑/n 前/f 动脉/n 血栓/n 形成/v 引起/v 的/ude1 脑/n 梗/ng 死/v 
+基/ng 底/f 动脉血/n 栓/ng 形成/v 脑/n 梗/ng 死/v 
+颈/ng 动脉血/n 栓/ng 形成/v 脑/n 梗/ng 死/v 
+椎/n 动脉血/n 栓/ng 形成/v 脑/n 梗/ng 死/v 
+入/v 脑/n 前/f 动脉/n 栓塞/n 引起/v 的/ude1 脑/n 梗/ng 死/v 
+基/ng 底/f 动脉/n 栓塞/n 脑/n 梗/ng 死/v 
+颈/ng 动脉/n 栓塞/n 脑/n 梗/ng 死/v 
+椎/n 动脉/n 栓塞/n 脑/n 梗/ng 死/v 
+入/v 脑/n 前/f 动脉/n 的/ude1 闭塞/a 或/c 狭窄/a 引起/v 的/ude1 脑/n 梗/ng 死/v 
+颈内/s 动脉/n 狭窄/a 脑/n 梗/ng 死/v 
+颈/ng 总/b 动脉/n 狭窄/a 脑/n 梗/ng 死/v 
+颈/ng 动脉/n 狭窄/a 脑/n 梗/ng 死/v 
+颈/ng 动脉/n 闭塞/a 脑/n 梗/ng 死/v 
+基/ng 底/f 动脉/n 闭塞/a 脑/n 梗/ng 死/v 
+基/ng 底/f 动脉/n 狭窄/a 脑/n 梗/ng 死/v 
+椎/n 动脉/n 闭塞/a 脑/n 梗/ng 死/v 
+椎/n 动脉/n 狭窄/a 脑/n 梗/ng 死/v 
+大脑/n 动脉血/n 栓/ng 形成/v 引起/v 的/ude1 脑/n 梗/ng 死/v 
+血栓/n 形成/v 性/ng 脑/n 软化/vi 
+血栓/n 性/ng 偏瘫/vi 
+大脑/n 动脉/n 栓塞/n 引起/v 的/ude1 脑/n 梗/ng 死/v 
+栓塞/n 性/ng 偏瘫/vi 
+脑/n 栓塞/n 
+大脑/n 动脉/n 的/ude1 闭塞/a 或/c 狭窄/a 引起/v 的/ude1 脑/n 梗/ng 死/v 
+大脑/n 动脉/n 狭窄/a 脑/n 梗/ng 死/v 
+大脑/n 动脉/n 闭塞/a 脑/n 梗/ng 死/v 
+大脑/n 静脉/n 血栓/n 形成/v 引起/v 的/ude1 脑/n 梗/ng 死/v ,/wd 非/b 生/v 脓/n 性/ng 
+脑/n 梗/ng 死/v ,/wd 其他/rzv 的/ude1 
+腔/ng 隙/ng 性/ng 脑/n 梗/ng 死/v 
+动脉硬化/nl 性/ng 脑/n 软化/vi 
+脑/n 梗/ng 死/v 
+脑/n 干/v 梗/ng 死/v 
+大/a 面积/n 脑/n 梗/ng 死/v 
+出/vf 血性/n 脑/n 梗/ng 死/v 
+小脑/n 梗/ng 死/v 
+多/m 发/v 性/ng 脑/n 梗/ng 死/v 
+基/ng 底/f 节/q 脑/n 梗/ng 死/v 
+丘脑/n 梗/ng 死/v 
+创伤/n 性/ng 脑/n 梗/ng 死/v 
+脑/n 卒/ng 中/f 
+脑血管/n 意外/an 
+椎/n 动脉/n 闭塞/an 和/cc 狭窄/a 
+椎/n 动脉/n 狭窄/a 
+椎/n 动脉/n 闭塞/a 
+椎/n 动脉血/n 栓/ng 形成/v 
+基/ng 底/f 动脉/n 闭塞/an 和/cc 狭窄/a 
+基/ng 底/f 动脉/n 闭塞/a 
+基/ng 底/f 动脉/n 狭窄/a 
+基/ng 底/f 动脉血/n 栓/ng 形成/v 
+颈/ng 动脉/n 闭塞/an 和/cc 狭窄/a 
+颈内/s 动脉/n 狭窄/a 
+颈/ng 总/b 动脉/n 狭窄/a 
+颈内/s 动脉/n 闭塞/a 
+颈/ng 外/f 动脉/n 狭窄/a 
+颈/ng 外/f 动脉/n 闭塞/a 
+颈内/s 动脉/n 血栓/n 形成/v 
+颈/ng 总/b 动脉/n 闭塞/a 
+颈内/s 动脉/n 栓塞/n 
+多/m 个/q 和/cc 双/m 侧/ng 入/v 脑/n 前/f 动脉/n 的/ude1 闭塞/a 和/cc 狭窄/a 
+入/v 脑/n 前/f 动脉/n 的/ude1 闭塞/a 和/cc 狭窄/a ,/wd 其他/rzv 的/ude1 
+入/v 脑/n 前/f 动脉/n 的/ude1 闭塞/a 和/cc 狭窄/a 
+大脑/n 中/b 动脉/n 闭塞/an 和/cc 狭窄/a 
+大脑/n 中/b 动脉/n 狭窄/a 
+大脑/n 中/b 动脉/n 闭塞/a 
+大脑/n 中/b 动脉/n 血栓/n 形成/v 
+大脑/n 中/b 动脉/n 综合征/n 
+大脑/n 前/f 动脉/n 闭塞/an 和/cc 狭窄/a 
+大脑/n 前/f 动脉/n 狭窄/a 
+大脑/n 前/f 动脉/n 闭塞/a 
+大脑/n 前/f 动脉/n 综合征/n 
+大/a 脑/n 后/f 动脉/n 闭塞/an 和/cc 狭窄/a 
+大/a 脑/n 后/f 动脉/n 闭塞/a 
+大/a 脑/n 后/f 动脉/n 狭窄/a 
+红/a 核/n 丘脑/n 综合征/n 
+大/a 脑/n 后/f 动脉/n 血栓/n 形成/v 
+大/a 脑/n 后/f 动脉/n 综合征/n 
+小脑/n 动脉/n 闭塞/an 和/cc 狭窄/a 
+小脑/n 动脉/n 狭窄/a 
+小脑/n 动脉/n 闭塞/a 
+小/a 脑/n 后/f 下/vf 动脉/n 血栓/n 形成/v 
+瓦/n 伦/ng 贝/b 格/b 综合征/n 
+多/m 个/q 和/cc 双/m 侧/q 大脑/n 动脉/n 闭塞/an 和/cc 狭窄/a 
+多/m 发/v 性/ng 大脑/n 动脉/n 闭塞/a 
+大脑/n 动脉/n 闭塞/an 和/cc 狭窄/a ,/wd 其他/rzv 的/ude1 
+大脑/n 动脉/n 的/ude1 闭塞/a 和/cc 狭窄/a 
+脑/n 动脉/n 狭窄/a 
+脑/n 动脉/n 闭塞/a 
+脑血栓/n 形成/v 
+大脑/n 动脉/n 夹层/n 形成/v ,/wd 未/d 破裂/vi 
+脑/n 动脉瘤/n ,/wd 未/d 破裂/vi 
+脑/n 动/v 静脉/n 瘘/n 
+后/f 交通/n 动脉瘤/n 
+椎/n 动脉/n 假性/b 动脉瘤/n 
+基/ng 底/f 动脉瘤/n 
+颈内/s 动脉/n 海绵/n 窦/nr1 瘘/n 
+前/f 交通/n 动脉瘤/n 
+大脑/n 中/b 动脉瘤/n 
+脑/n 假性/b 动脉瘤/n 
+颅/ng 内/f 动脉瘤/n 
+小脑/n 动脉瘤/n 
+大脑/n 动脉/n 粥/n 样/ng 硬化/vi 
+动脉硬化/nl 性/ng 脑/n 病/n 
+颈内/s 动脉/n 粥/n 样/ng 硬化/vi 
+椎/n 动脉/n 粥/n 样/ng 硬化/vi 
+进行/vx 性/n 血管/n 性/ng 脑/n 白质/n 病/n 
+宾斯旺格/nrf 病/n 
+高血压/n 脑/n 病/n 
+烟雾/n 病/n 
+颅/ng 内/f 静脉/n 系统/n 的/ude1 非/b 生/v 脓/n 性/ng 血栓/n 形成/v 
+颅/ng 内/f 静脉/n 窦非/nr 脓/n 性/ng 血栓/n 形成/v 
+横/v 窦非/nr 脓/n 性/ng 血栓/n 形成/v 
+海绵/n 窦非/nr 脓/n 性/ng 血栓/n 形成/v 
+上/f 矢/ng 状/ng 窦非/nr 脓/n 性/ng 血栓/n 形成/v 
+乙/m 状/ng 窦非/nr 脓/n 性/ng 血栓/n 形成/v 
+大脑/n 静脉/n 非/b 脓/n 性/ng 血栓/n 形成/v 
+大脑/n 动脉/n 炎/ng ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+脑血管/n 疾病/n ,/wd 其他/rzv 特指/v 的/ude1 
+复发/vi 性/ng 脑血管/n 病/n 
+急性/b 脑血管/n 病/n 
+脑/n 动脉/n 供/vi 血/n 不足/an 
+脑/n 坏死/vi 
+慢性/b 缺血/v 性/ng 脑血管/n 病/n 
+可逆性/n 缺血/v 性/ng 神经/n 功能/n 缺损/vn 
+脑血管/n 病/n 
+中脑/n 红/a 核/n 综合征/n 
+韦伯/nrf -/wp 莱/q 登/v 综合征/n 
+蛛网/n 膜/n 下/f 出血/vi 后遗症/n 
+脑/n 内出血/v 后遗症/n 
+非/b 创伤/n 性/ng 颅/ng 内出血/v 后遗症/n ,/wd 其他/rzv 的/ude1 
+脑/n 梗/ng 死/v 后遗症/n 
+脑/n 卒/ng 中/f 后遗症/n 
+脑血管/n 病/n 后遗症/n ,/wd 其他/rzv 的/ude1 
+脑血栓/n 后遗症/n 
+脑血管/n 病/n 后遗症/n 
+主动脉/n 的/ude1 动脉/n 粥/n 样/ng 硬化/vi 
+主动脉/n 钙化/vn 
+腹/ng 主动脉/n 粥/n 样/ng 硬化/vi 
+升/v 主动脉/n 狭窄/a 
+肾/n 动脉/n 的/ude1 动脉/n 粥/n 样/ng 硬化/vi 
+肾/n 动脉/n 狭窄/a 
+移植/v 肾/n 动脉/n 狭窄/a 
+四肢/n 动脉/n 的/ude1 动脉/n 粥/n 样/ng 硬化/vi 
+上肢/n 动脉/n 粥/n 样/ng 硬化/vi 
+上肢/n 动脉/n 粥/n 样/ng 硬化/vi 性/ng 坏疽/n 
+下肢/n 动脉/n 粥/n 样/ng 硬化/vi 
+下肢/n 动脉硬化/nl 闭塞/a 症/ng 
+下肢/n 动脉/n 粥/n 样/ng 硬化/vi 性/ng 坏疽/n 
+蒙/b 克/b 贝/b 格/b 硬化/vn 
+趾/n 动脉/n 粥/n 样/ng 硬化/vi 性/ng 坏疽/n 
+闭塞/a 性/ng 周围/f 动脉/n 粥/n 样/ng 硬化/vi 
+肢体/n 动脉硬化/nl 性/ng 闭塞/v 症/ng 
+动脉/n 的/ude1 动脉/n 粥/n 样/ng 硬化/vi ,/wd 其他/rzv 的/ude1 
+视网膜/n 动脉/n 粥/n 样/ng 硬化/vi 
+髂/n 动脉/n 闭塞/a 性/ng 粥/n 样/ng 硬化/vi 
+髂/n 总/b 动脉/n 粥/n 样/ng 硬化/vi 
+锁骨/n 下/vf 动脉/n 粥/n 样/ng 硬化/vi 
+乳/ng 内/f 动脉/n 粥/n 样/ng 硬化/vi 
+颈/ng 动脉硬化/nl 
+全身性/n 的/ude1 动脉/n 粥/n 样/ng 硬化/vi 
+闭塞/a 性/ng 动脉/n 炎/ng 
+周身/n 性/n 动脉硬化/nl 
+主动脉/n 夹层/n [任何部分]/xm 
+主动脉/n 夹层/n 动脉瘤/n 破裂/vi 
+降/v 主动脉/n 夹层/n 
+升/v 主动脉/n 夹层/n 
+腹/ng 主动脉/n 夹层/n 
+主动脉/n 夹层/n 壁/ng 间/f 血肿/n 
+腹/ng 主动脉/n 壁/ng 间/f 出血/vi 
+胸/ng 主动脉/n 夹层/n 
+胸/ng 主动脉/n 瘤/ng 破裂/vi 
+主/ag 动脉弓/n 破裂/vi 
+胸/ng 主动脉/n 瘤/ng ,/wd 未/d 提及/v 破裂/vi 
+升/v 主动脉/n 瘤/ng 
+胸/ng 主动脉/n 假性/b 动脉瘤/n 
+升/v 主动脉/n 扩张/vn 
+主/ag 动脉弓/n 动脉瘤/n 
+主/ag 动脉弓/n 假性/b 动脉瘤/n 
+升/v 主动脉/n 假性/b 动脉瘤/n 
+腹/ng 主动脉/n 瘤/ng 破裂/vi 
+腹/ng 主动脉/n 瘤/ng ,/wd 未/d 提及/v 破裂/vi 
+腹/ng 主动脉/n 假性/b 动脉瘤/n 
+腹/ng 主动脉/n 扩张/vn 
+胸/ng 腹/ng 主动脉/n 瘤/ng 破裂/vi 
+胸/ng 腹/ng 主动脉/n 瘤/ng ,/wd 未/d 提及/v 破裂/vi 
+主/ag 动脉瘤/n 破裂/vi 
+主动脉/n 破裂/vi 
+主/ag 动脉瘤/n ,/wd 未/d 提及/v 破裂/vi 的/ude1 
+主动脉/n 扩张/vn 
+降/v 主动脉/n 瘤/ng 
+降/v 主动脉/n 假性/b 动脉瘤/n 
+颈/ng 动脉瘤/n 
+颈/ng 动脉/n 假性/b 动脉瘤/n 
+颈内/s 动脉瘤/n 
+颈/ng 动脉/n 扩张/vn 
+上肢/n 动脉瘤/n 
+上肢/n 假性/b 动脉瘤/n 
+上肢/n 假性/b 动脉瘤/n 破裂/vi 
+肾/n 动脉瘤/n 
+肾/n 假性/b 动脉瘤/n 
+髂/n 动脉瘤/n 
+髂/n 总/b 动脉瘤/n 
+髂/n 动脉/n 假性/b 动脉瘤/n 破裂/vi 
+髂/n 动脉/n 假性/b 动脉瘤/n 
+髂/n 动脉瘤/n 破裂/vi 
+髂/n 动脉/n 扩张/vn 
+下肢/n 动脉瘤/n 
+下肢/n 假性/b 动脉瘤/n 
+下肢/n 假性/b 动脉瘤/n 破裂/vi 
+股/n 动脉/n 假性/b 动脉瘤/n 破裂/vi 
+股/n 动脉/n 假性/b 动脉瘤/n 
+腘/n 动脉瘤/n 
+动脉/n 的/ude1 动脉瘤/n ,/wd 其他/rzv 特指/v 的/ude1 
+肠系膜/n 上/f 动脉/n 夹层/n 动脉瘤/n 
+肠系膜/n 上/f 动脉/n 动脉瘤/n 
+眶/ng 内/f 动脉瘤/n 
+锁骨/n 下/vf 动脉瘤/n 
+锁骨/n 下/vf 动脉/n 假性/b 动脉瘤/n 
+无名/b 动脉瘤/n 
+胃/n 十二指肠/n 动脉/n 假性/b 动脉瘤/n 
+胰/ng 十二指肠/n 动脉/n 假性/b 动脉瘤/n 
+肝/n 动脉瘤/n 
+脾/n 动脉瘤/n 
+脾/n 动脉/n 假性/b 动脉瘤/n 
+腹腔/n 动脉瘤/n 
+腹腔/n 干/v 动脉/n 假性/b 动脉瘤/n 
+腹腔/n 动脉瘤/n 破裂/vi 
+腹腔/n 动脉/n 夹层/n 动脉瘤/n 
+椎/n 动脉/n 动脉瘤/n 
+动脉瘤/n 
+假性/b 动脉瘤/n 
+雷/n 诺/nr1 综合征/n 
+雷/n 诺/nr1 现象/n 
+血栓/n 闭塞/a 性/ng 血管/n 炎/ng [伯格]/xm 
+周围/f 血管/n 疾病/n ,/wd 其他/rzv 特指/v 的/ude1 
+上肢/n 缺血/v 
+下肢/n 缺血/v 
+红/a 斑/n 性/ng 肢/ng 痛/a 症/ng 
+肢/ng 端/v 绀/n 红/a 皮/n 病/n 
+周围/f 血管/n 疾病/n 
+间歇/n 性/ng 跛/n 行/ng 
+血管/n 痉挛/vn 
+动脉/n 痉挛/vn 
+腹/ng 主动脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+腹/ng 主动脉/n 栓塞/n 
+腹/ng 主动脉/n 血栓/n 形成/v 
+主动脉/n 分叉/n 综合征/n 
+平/a 肾/n 腹/ng 主动脉/n 闭塞/a 
+肾/n 下腹/n 主动脉/n 闭塞/a 
+腹/ng 主动脉/n 闭塞/a 
+主动脉/n 的/ude1 栓塞/n 和/cc 血栓/n 形成/v ,/wd 其他/rzv 部位/n 
+主动脉/n 栓塞/n 
+主动脉/n 血栓/n 形成/v 
+主动脉/n 栓塞/n (/wkz 血栓/n 形成/v )/wky 
+上肢/n 动脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+上肢/n 动脉/n 栓塞/n 
+上肢/n 动脉血/n 栓/ng 形成/v 
+下肢/n 动脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+下肢/n 动脉/n 栓塞/n 
+下肢/n 动脉血/n 栓/ng 形成/v 
+创伤/n 性/ng 股/n 动脉血/n 栓/ng 形成/v 
+股/n 动脉/n 栓塞/n 
+股/n 动脉/n 闭塞/a 
+股/n 动脉/n 支架/n 闭塞/a 
+股/n 动脉血/n 栓/ng 形成/v 
+腘/n 动脉/n 闭塞/a 
+腘/n 动脉/n 支架/n 闭塞/a 
+蓝/a 趾/n 综合征/n 
+四肢/n 动脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+四肢/n 动脉/n 栓塞/n 
+四肢/n 动脉血/n 栓/ng 形成/v 
+髂/n 动脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+髂/n 总/b 动脉/n 栓塞/n 
+髂/n 总/b 动脉血/n 栓/ng 形成/v 
+髂/n 内/f 动脉/n 闭塞/a 
+髂/n 外/f 动脉/n 闭塞/a 
+髂/n 动脉/n 支架/n 闭塞/a 
+动脉/n 的/ude1 栓塞/n 和/cc 血栓/n 形成/v ,/wd 其他/rzv 的/ude1 
+锁骨/n 下/vf 动脉/n 闭塞/a 
+锁骨/n 下/vf 动脉/n 血栓/n 形成/v 
+肝/n 动脉/n 栓塞/n 
+肝/n 动脉血/n 栓/ng 形成/v 
+脾/n 动脉/n 栓塞/n 
+腹腔/n 动脉/n 栓塞/n 
+腹腔/n 动脉血/n 栓/ng 形成/v 
+动脉/n 的/ude1 栓塞/n 和/cc 血栓/n 形成/v 
+多/m 发/v 性/ng 动脉/n 栓塞/n 
+动脉/n 栓塞/n 
+后/f 天性/n 动静/n 脉/ng 瘘/n 
+头/m 面部/n 动静/n 脉/ng 瘘/n 
+硬/a 脊/ng 膜/n 动静/n 脉/ng 瘘/n 
+耳廓/n 动静/n 脉/ng 瘘/n 
+眶/ng 动静/n 脉/ng 瘘/n 
+锁骨/n 下/f 动/v 静脉/n 瘘/n 
+支气管/n 动静/n 脉/ng 瘘/n 
+腹/ng 主动脉/n 下/f 腔/q 静脉/n 瘘/n 
+脾/n 动静/n 脉/ng 瘘/n 
+子宫/n 动静/n 脉/ng 瘘/n 
+肾/n 动静/n 脉/ng 瘘/n 
+盆腔/n 动静/n 脉/ng 瘘/n 
+股/n 动/v 静脉/n 瘘/n 
+下肢/n 动静/n 脉/ng 瘘/n 
+多/m 发/v 性/ng 动静/n 脉/ng 瘘/n 
+动脉/n 狭窄/a 
+颈/ng 动脉/n 迂曲/a 
+锁骨/n 下/vf 动脉/n 狭窄/a 
+无名/b 动脉/n 迂曲/a 
+无名/b 动脉/n 狭窄/a 
+肱/n 动脉/n 狭窄/a 
+肱/n 动脉/n 纡/n 曲/ng 
+腋/ng 动脉/n 狭窄/a 
+上肢/n 动脉/n 狭窄/a 
+主动脉/n 迂曲/a 
+后/f 天性/n 主动脉/n 狭窄/a 
+胸/ng 主动脉/n 狭窄/a 
+腹/ng 主动脉/n 狭窄/a 
+主/ag 动脉弓/n 狭窄/a 
+腹腔/n 干/v 动脉/n 狭窄/a 
+股/n 动脉/n 狭窄/a 
+股/n 动脉/n 支架/n 内/f 再/d 狭窄/a 
+腘/n 动脉/n 狭窄/a 
+腘/n 动脉/n 挤压/vn 综合征/n 
+腘/n 动脉/n 支架/n 内/f 再/d 狭窄/a 
+胫/ng 前/f 动脉/n 狭窄/a 
+胫/ng 后/f 动脉/n 狭窄/a 
+胫/ng 动脉/n 支架/n 内/f 再/d 狭窄/a 
+腓/n 动脉/n 狭窄/a 
+腓/n 动脉/n 支架/n 内/f 再/d 狭窄/a 
+髂/n 总/b 动脉/n 狭窄/a 
+髂/n 外/f 动脉/n 狭窄/a 
+髂/n 内/f 动脉/n 狭窄/a 
+髂/n 动脉/n 支架/n 内/f 再/d 狭窄/a 
+下肢/n 动脉/n 狭窄/a 
+腘/n 血管/n 陷/vi 迫/vg 综合征/n 
+移植/v 肝/n 动脉/n 狭窄/a 
+动脉/n 破裂/vi 
+动脉/n 瘘/n 
+支气管/n 动脉/n -/wp 肺动脉/n 瘘/n 
+肺动脉/n 瘘/n 
+腹/ng 主动脉/n -/wp 空肠/n 瘘/n 
+动脉/n 纤维/n 肌肉/n 发育/vi 异常/a 
+肾/n 动脉/n 纤维/n 肌肉/n 发育/vi 不良/a 
+脑血管/n 纤维/n 性/ng 肌/ng 发育/vi 不良/a 
+腹腔/n 动脉/n 压迫/vn 综合征/n 
+动脉/n 坏死/vi 
+动脉/n 炎/ng 
+主动脉/n 炎/ng 
+动脉/n 内/f 膜/n 炎/ng 
+血管/n 炎/ng 
+上肢/n 动脉/n 炎/ng 
+下肢/n 动脉/n 炎/ng 
+系统性/n 血管/n 炎/ng 
+动脉/n 和/cc 小/a 动脉/n 其他/rzv 特指/v 的/ude1 疾患/n 
+动脉/n 溃疡/n 
+腹/ng 主动脉/n 溃疡/n 
+主动脉/n 溃疡/n 
+德/n 戈/ng 病/n 
+后/f 天性/n 腹/ng 主动脉/n 畸形/n 
+主动脉/n 脓肿/n 
+动脉/n 和/cc 小/a 动脉/n 的/ude1 疾患/n 
+遗传性/n 出/vf 血性/n 毛/nr1 细/a 血管/n 扩张/vn 
+非/b 瘤/n 性/ng 痣/n 
+老年/t 痣/n 
+蜘蛛/n 痣/n 
+毛/nr1 细/a 血管/n 疾病/n ,/wd 其他/rzv 的/ude1 
+毛/nr1 细/a 血管/n 渗漏/vn 综合征/n 
+胃肠/n 道/qv 毛/n 细/a 血管/n 扩张/v 症/ng 
+毛/nr1 细/a 血管/n 扩张/v 症/ng 
+毛/nr1 细/a 血管/n 疾病/n 
+下肢/n 浅表/b 脉/ng 管/v 的/ude1 静脉炎/n 和/cc 血栓/n 性/ng 静脉炎/n 
+下肢/n 浅表/b 静脉炎/n 
+下肢/n 化脓/vi 性/ng 浅表/b 血栓/n 静脉炎/n 
+股/n 静脉/n 的/ude1 静脉炎/n 和/cc 血栓/n 性/ng 静脉炎/n 
+股/n 静脉炎/n 
+股/n 静脉/n 血栓/n 性/ng 静脉炎/n 
+髂/n 股/q 静脉/n 血栓/n 形成/v 
+股/n 静脉/n 血栓/n 形成/v 
+下肢/n 其他/rzv 深部/n 脉/ng 管/v 的/ude1 静脉炎/n 和/cc 血栓/n 性/ng 静脉炎/n 
+下肢/n 深/a 静脉/n 血栓/n 性/ng 静脉炎/n 
+下肢/n 深/a 静脉炎/n 
+髂/n 内/f 静脉/n 血栓/n 形成/v 
+髂/n 外/f 静脉/n 血栓/n 形成/v 
+髂/n 静脉/n 瘤/ng 栓/ng 
+髂/n 静脉/n 血栓/n 形成/v 
+下肢/n 深/a 静脉/n 血栓/n 形成/v 
+下肢/n 深/a 静脉/n 栓塞/n 
+手术/n 后/f 下肢/n 深/a 静脉/n 血栓/n 形成/v 
+下肢/n 静脉炎/n 和/cc 血栓/n 性/ng 静脉炎/n 
+下肢/n 静脉炎/n 
+下肢/n 血栓/n 性/ng 静脉炎/n 
+下肢/n 静脉/n 血栓/n 形成/v 
+静脉炎/n 和/cc 血栓/n 性/ng 静脉炎/n ,/wd 其他/rzv 部位/n 的/ude1 
+眶/ng 内/f 血栓/n 性/ng 静脉炎/n 
+乳腺/n 血栓/n 性/ng 静脉炎/n 
+上肢/n 静脉炎/n 
+上肢/n 血栓/n 性/ng 静脉炎/n 
+静脉炎/n 和/cc 血栓/n 性/ng 静脉炎/n 
+静脉炎/n 
+血栓/n 性/ng 静脉炎/n 
+门静脉/n 血栓/n 形成/v 
+巴德/nrf -/wp 基/ng 亚/b 里/f 综合征/n 
+肝/n 静脉/n 血栓/n 形成/v 
+移动/v 性/ng 血栓/n 静脉炎/n 
+腔/q 静脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+腔/q 静脉/n 瘤/ng 栓/ng 
+上/f 腔/q 静脉/n 血栓/n 形成/v 
+下/f 腔/q 静脉/n 血栓/n 形成/v 
+下/f 腔/q 静脉/n 栓塞/n 
+肾/n 静脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+肾/n 静脉/n 血栓/n 形成/v 
+肾/n 静脉/n 瘤/ng 栓/ng 
+静脉/n 栓塞/n 和/cc 血栓/n 形成/v ,/wd 其他/rzv 特指/v 的/ude1 
+颈内/s 静脉/n 血栓/n 形成/v 
+颈/ng 静脉/n 血栓/n 形成/v 
+锁骨/n 下/vf 静脉/n 血栓/n 形成/v 
+腋/ng 静脉/n 血栓/n 形成/v 
+上肢/n 深/a 静脉/n 血栓/n 形成/v 
+上肢/n 静脉/n 血栓/n 形成/v 
+静脉/n 栓塞/n 和/cc 血栓/n 形成/v 
+下肢/n 静脉/n 曲/n 张/q 伴有/v 溃疡/n 
+大/d 隐/v 静脉/n 曲/n 张/q 伴/v 溃疡/n 
+下肢/n 静脉/n 曲/n 张/q 伴有/v 炎症/n 
+下肢/n 静脉/n 曲/n 张/q 伴/v 静脉炎/n 
+淤积/v 性/ng 皮炎/n 
+下肢/n 静脉/n 曲/n 张/q 伴有/v 溃疡/n 和/cc 炎症/n 
+下肢/n 静脉/n 曲/n 张/q 不/d 伴有/v 溃疡/n 或/c 炎症/n 
+下肢/n 静脉/n 瘤/ng 
+静脉/n 曲/n 张/q 破裂/vi 
+大/d 隐/v 静脉/n 曲/n 张/q 
+大/d 隐/v 静脉/n 瘤/ng 
+小/a 隐/v 静脉/n 曲/n 张/q 
+静脉/n 曲/n 张/q 
+血栓/n 性/ng 内痔/n 
+内痔/n 伴/v 有/vyou 其他/rzv 并发症/n 
+出/vf 血性/n 内痔/n 
+脱/v 垂/v 性/ng 内痔/n 
+绞/v 窄/a 性/ng 内痔/n 
+直肠/n 静脉/n 曲/n 张/q 破裂/vi 
+内痔/n 不/d 伴有/v 并发症/n 
+混合/vn 痔/n 
+血栓/n 性/ng 外痔/n 
+外痔/n 伴/v 有/vyou 其他/rzv 并发症/n 
+出/vf 血性/n 外痔/n 
+外痔/n 不/d 伴有/v 并发症/n 
+残留/v 的/ude1 痔/n 皮/n 赘/ag 
+直肠/n 皮/n 赘/ag 
+肛门/n 皮/n 赘/ag 
+肛管/n 赘/ag 生物/n 
+血栓/n 性/ng 痔/n 
+痔/n 伴/v 有/vyou 其他/rzv 并发症/n 
+出/vf 血性/n 痔/n 
+痔/n 不/d 伴有/v 并发症/n 
+食管/n 静脉/n 曲/n 张/q 伴有/v 出血/vi 
+食管/n 静脉/n 曲/n 张/q 不/d 伴有/v 出血/vi 
+食管/n 静脉/n 瘤/ng 
+舌/n 下/vf 静脉/n 曲/n 张/q 
+阴囊/n 静脉/n 曲/n 张/q 
+精/a 索/vg 静脉/n 曲/n 张/q 
+盆腔/n 静脉/n 曲/n 张/q 
+膀胱/n 静脉/n 曲/n 张/q 
+外/f 阴/a 静脉/n 曲/n 张/q 
+胃/n 静脉/n 曲/n 张/q 
+胃/n 底/f 静脉/n 曲/n 张/q 伴/v 出血/vi 
+静脉/n 曲/n 张/q ,/wd 其他/rzv 特指/v 部位/n 的/ude1 
+颞/n 静脉/n 曲/n 张/q 
+颞/n 静脉/n 瘤/ng 
+眼眶/n 静脉/n 曲/n 张/q 
+颈/ng 总/b 静脉/n 瘤/ng 
+颈/ng 外/f 静脉/n 瘤/ng 
+颈/ng 静脉/n 曲/n 张/q 
+冠/vi 状/ng 静脉/n 窦/nr1 扩张/v 
+肝/n 静脉/n 瘤/ng 
+肝/n 静脉/n 曲/n 张/q 
+脾/n 静脉/n 曲/n 张/q 
+肾/n 静脉/n 瘤/ng 
+十二指肠/n 静脉/n 曲/n 张/q 伴/v 出血/vi 
+腹/ng 壁/ng 静脉/n 曲/n 张/q 
+躯干/n 静脉/n 瘤/ng 
+颈/ng 静脉/n 扩张/vn 
+颈内/s 静脉/n 扩张/vn 
+静脉炎/n 后/f 综合征/n 
+静脉/n 受/v 压/v 
+上肢/n 静脉/n 阻塞/vn 
+上肢/n 静脉/n 狭窄/a 
+无名/b 静脉/n 狭窄/a 
+无名/b 静脉/n 阻塞/vn 
+头/n 臂/ng 静脉/n 狭窄/a 
+上/f 腔/q 静脉/n 综合征/n 
+上/f 腔/q 静脉/n 阻塞/vn 综合征/n 
+脾/n 静脉/n 狭窄/a 
+门静脉/n 狭窄/a 
+肝/n 静脉/n -/wp 下/f 腔/q 静脉/n 阻塞/vn 
+下/f 腔/q 静脉/n 综合征/n 
+下/f 腔/q 静脉/n 狭窄/a 
+下/f 腔/q 静脉/n 阻塞/vn 
+上下/m 腔/q 静脉/n 回流/v 障碍/n 综合征/n 
+髂/n 总/b 静脉/n 狭窄/a 
+髂/n 静脉/n 压迫/vn 综合征/n 
+胡桃/nr 夹/v 综合征/n 
+下肢/n 静脉/n 狭窄/a 
+下肢/n 静脉/n 阻塞/vn 
+精/a 索/vg 静脉/n 压迫/vn 综合征/n 
+静脉/n 功能/n 不/d 全/a (/wkz 慢性/b )/wky (/wkz 周围/f 性/ng )/wky 
+下肢/n 静脉/n 机能/n 不/d 全/a 
+下肢/n 深/a 静脉/n 瓣膜/n 机能/n 不/d 全/a 
+静脉/n 其他/rzv 特指/v 的/ude1 疾患/n 
+静脉/n 硬化/vi 
+静脉/n 石/ng 
+门静脉/n 海绵/n 样/ng 变/v 
+阴茎/n 静脉/n 纤维/n 化/v 
+下肢/n 静脉/n 回流/v 障碍/n 
+肝/n 小/a 静脉/n 闭塞/a 病/n 
+静脉/n 疾患/n 
+非/b 特异/z 性/ng 肠系膜/n 淋巴结炎/n 
+急性/b 肠系膜/n 淋巴结炎/n 
+慢性/b 淋巴结炎/n ,/wd 除外/vi 肠系膜/n 
+慢性/b 颈/ng 淋巴结炎/n 
+慢性/b 颌/n 下/vf 淋巴结炎/n 
+慢性/b 颏/ng 下/f 淋巴结炎/n 
+慢性/b 腮腺/n 淋巴结炎/n 
+慢性/b 食管/n 旁/f 淋巴结炎/n 
+慢性/b 肺/n 门/q 淋巴结炎/n 
+慢性/b 纵隔/n 淋巴结炎/n 
+慢性/b 腹股沟/n 淋巴结炎/n 
+非/b 特异/z 性/ng 淋巴结炎/n ,/wd 其他/rzv 的/ude1 
+非/b 特异/z 性/ng 淋巴结炎/n 
+反应/vi 性/ng 淋巴结炎/n 
+淋巴/n 水肿/n ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+原/d 发/v 性/ng 淋巴/n 水肿/n 
+淋巴管/n 闭塞/a 
+胸/ng 导管/n 梗阻/vi 
+上肢/n 淋巴/n 水肿/n 
+肠/n 淋巴管/n 扩张/vn 
+小肠/n 淋巴管/n 扩张/vn 
+盆腔/n 淋巴管/n 阻塞/vn 
+阴囊/n 淋巴/n 水肿/n 
+非/b 丝/n 虫/n 性/ng 象/ng 皮/n 肿/vi 
+淋巴/n 回流/v 障碍/n 
+淋巴管/n 炎/ng 
+淋巴管/n 和/cc 淋巴结/n 其他/rzv 特指/v 的/ude1 非/b 感染/v 性/ng 疾患/n 
+肠系膜/n 乳糜/n 囊肿/n 
+淋巴管/n 瘘/n 
+非/b 丝/n 虫/n 性/ng 乳糜/n 性/ng 腹水/n 
+胸/ng 导管/n 断裂/vi 
+淋巴结/n 钙化/vn 
+乳糜/n 胸/ng 
+卡斯尔门/nrf 病/n 
+淋巴管/n 和/cc 淋巴结/n 非/b 感染/v 性/ng 疾患/n 
+特/d 发/v 性/ng 低血压/n 
+直立/v 性/ng 低血压/n 
+体/n 位/q 性/ng 低血压/n 
+药/n 物性/n 低血压/n 
+低血压/n ,/wd 其他/rzv 的/ude1 
+低血压/n 
+心脏/n 切开/v 术/ng 后/f 综合征/n 
+心脏/n 手术/vi 后/f 低/a 心/n 排/v 综合征/n 
+心脏/n 外科/n 手术/vi 后/f 的/ude1 其他/rzv 功能性/n 障碍/n 
+瓣膜/n 置换/v 术/ng 后/f 心脏/n 功能/n 衰竭/vi 
+心脏/n 手术/vi 后/f 心力衰竭/n 
+乳房/n 切除/v 术/ng 后/f 淋巴/n 水肿/n 综合征/n 
+循环系统/nl 的/ude1 其他/rzv 操作/v 后/f 疾患/n ,/wd 不可/v 归类/vi 在/p 他/rr 处/n 者/k 
+手术/n 后/f 淋巴/n 水肿/n 
+手术/n 后/f 会/v 阴部/n 静脉/n 回流/v 障碍/n 
+手术/n 后/f 心力衰竭/n 
+人工/d 动/v 静脉/n 瘘/n 瘤/ng 形成/v 
+人工/d 动/v 静脉/n 瘘/n 血栓/n 形成/v 
+人工/d 动/v 静脉/n 瘘/n 闭塞/a 
+人工/d 动/v 静脉/n 瘘/n 狭窄/a 
+循环系统/nl 的/ude1 操作/vn 后/f 疾患/n 
+循环系统/nl 其他/rzv 疾患/n 
+循环系统/nl 疾患/n 
